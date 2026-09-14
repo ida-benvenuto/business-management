@@ -30,3 +30,8 @@
 \contentsline {subsubsection}{3. Joint Ventures}{13}{section*.4}%
 \contentsline {subsubsection}{4. Buyer-Supplier Relationships / Bottleneck Partnerships}{13}{section*.5}%
 \contentsline {section}{\numberline {3.11}9. Cost Structure}{13}{section.3.11}%
+\contentsline {chapter}{\numberline {4}Lecture 3 – 14/09/2026 Cornell note taking model}{15}{chapter.4}%
+\contentsline {section}{\numberline {4.1}flow of money}{16}{section.4.1}%
+\contentsline {section}{\numberline {4.2}timeline}{17}{section.4.2}%
+\contentsline {section}{\numberline {4.3}results}{17}{section.4.3}%
+\contentsline {section}{\numberline {4.4}cost of complexity}{18}{section.4.4}%

@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1789060072.93974 "/Users/idabenvenuto/Desktop/spagna/business management/notes.tex" "notes.pdf" "notes" 1789060073.51671 0
-  "/Users/idabenvenuto/Desktop/spagna/business management/notes.tex" 1789060072.75048 21732 68acb967fd0ac094a2c6908912480dce ""
+["pdflatex"] 1789380107.57219 "/Users/idabenvenuto/Desktop/spagna/business management/notes.tex" "notes.pdf" "notes" 1789380108.29275 0
+  "/Users/idabenvenuto/Desktop/spagna/business management/notes.tex" 1789380107.38145 28957 fa09785cd34185fa04fd1c56f419f041 ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/tfm/jknappen/ec/ecbx1200.tfm" 1136768653 3584 402da0b29eafbad07963b1224b222f18 ""
@@ -177,10 +177,11 @@
   "/usr/local/texlive/2025basic/texmf.cnf" 1741448314 628 81d1ada0f601fb1ffa62f1323192d946 ""
   "imm/Google-Business-Model-Canvas.jpeg" 1789060005.46668 126007 83dc735d30741fcb18b01f7e66af8221 ""
   "imm/Screenshot 2026-09-10 alle 18.50.03.png" 1789059010.18468 654892 29886fcf012c79026918094fbc69d659 ""
-  "notes.aux" 1789060073.44375 4794 2d75b84a9e02e329816222deeb34ed58 "pdflatex"
-  "notes.out" 1789060073.44455 4949 076553900d92376438695994adc044eb "pdflatex"
-  "notes.tex" 1789060072.75048 21732 68acb967fd0ac094a2c6908912480dce ""
-  "notes.toc" 1789060073.44479 2825 06e2ada1a9d91df9c1b73078815a422d "pdflatex"
+  "imm/Screenshot 2026-09-14 alle 10.56.31.png" 1789376195.51978 1023775 72f9869009c48bfca6310063cd8234a9 ""
+  "notes.aux" 1789380108.21401 5601 c6917ab6511a128ddebf36cb8ffc4623 "pdflatex"
+  "notes.out" 1789380108.21487 5719 2f2e52aa385ed5f6d418681fdfefcae2 "pdflatex"
+  "notes.tex" 1789380107.38145 28957 fa09785cd34185fa04fd1c56f419f041 ""
+  "notes.toc" 1789380108.21508 3222 a4a2c93b32f6d5dfb681c6419824dda2 "pdflatex"
   (generated)
   "notes.aux"
   "notes.log"

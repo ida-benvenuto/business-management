@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.11.15)  10 SEP 2026 19:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.11.15)  14 SEP 2026 12:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -663,7 +663,7 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 [6
 
 ]
-<imm/Screenshot 2026-09-10 alle 18.50.03.png, id=186, 734.745pt x 452.69125pt>
+<imm/Screenshot 2026-09-10 alle 18.50.03.png, id=211, 734.745pt x 452.69125pt>
 File: imm/Screenshot 2026-09-10 alle 18.50.03.png Graphic file (type png)
 <use imm/Screenshot 2026-09-10 alle 18.50.03.png>
 Package pdftex.def Info: imm/Screenshot 2026-09-10 alle 18.50.03.png  used on input line 173.
@@ -686,10 +686,10 @@ l.183 T
 [11]
 
 [12]
-<imm/Google-Business-Model-Canvas.jpeg, id=218, 1927.2pt x 1084.05pt>
+<imm/Google-Business-Model-Canvas.jpeg, id=243, 1927.2pt x 1084.05pt>
 File: imm/Google-Business-Model-Canvas.jpeg Graphic file (type jpg)
 <use imm/Google-Business-Model-Canvas.jpeg>
-Package pdftex.def Info: imm/Google-Business-Model-Canvas.jpeg  used on input line 443.
+Package pdftex.def Info: imm/Google-Business-Model-Canvas.jpeg  used on input line 449.
 (pdftex.def)             Requested size: 455.24411pt x 256.07509pt.
 
 
@@ -699,28 +699,105 @@ Package pdftex.def Info: imm/Google-Business-Model-Canvas.jpeg  used on input li
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.446 \end{document}
-                     <./imm/Google-Business-Model-Canvas.jpeg>] (./notes.aux)
+l.454 \chapter
+              {Lecture 3 – 14/09/2026 Cornell note taking model} <./imm/Google-Business-Model-Canvas.jpeg>]
+Chapter 4.
+
+
+[15
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 466--478
+
+ []
+
+
+Underfull \hbox (badness 7256) in paragraph at lines 466--478
+\T1/cmr/m/n/12 resources of a busi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 466--478
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 466--478
+\T1/cmr/m/n/12 stakeholders of a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 466--478
+
+ []
+
+<imm/Screenshot 2026-09-14 alle 10.56.31.png, id=261, 489.83pt x 337.26pt>
+File: imm/Screenshot 2026-09-14 alle 10.56.31.png Graphic file (type png)
+<use imm/Screenshot 2026-09-14 alle 10.56.31.png>
+Package pdftex.def Info: imm/Screenshot 2026-09-14 alle 10.56.31.png  used on input line 491.
+(pdftex.def)             Requested size: 251.29659pt x 173.01926pt.
+
+
+[16
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.508 \newpage
+               <./imm/Screenshot 2026-09-14 alle 10.56.31.png>]
+Underfull \hbox (badness 2418) in paragraph at lines 517--526
+\T1/cmr/m/n/12 goal is and how the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 517--526
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 517--526
+\T1/cmr/m/n/12 timeline: risk and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 517--526
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 517--526
+\T1/cmr/m/n/12 results: profit or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 529--534
+
+ []
+
+
+
+[17]
+
+[18] (./notes.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `notes.out' has not changed.
-(rerunfilecheck)             Checksum: 076553900D92376438695994ADC044EB;4949.
+(rerunfilecheck)             Checksum: 2F2E52AA385ED5F6D418681FDFEFCAE2;5719.
  ) 
 Here is how much of TeX's memory you used:
- 23663 strings out of 474662
- 451626 string characters out of 5751108
- 821912 words of memory out of 5000000
- 46275 multiletter control sequences out of 15000+600000
+ 23687 strings out of 474662
+ 452189 string characters out of 5751108
+ 822914 words of memory out of 5000000
+ 46289 multiletter control sequences out of 15000+600000
  576356 words of font info for 79 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 98i,7n,101p,599b,601s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 98i,8n,101p,606b,601s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on notes.pdf (15 pages, 872552 bytes).
+Output written on notes.pdf (19 pages, 1951182 bytes).
 PDF statistics:
- 294 PDF objects out of 1000 (max. 8388607)
- 250 compressed objects within 3 object streams
- 50 named destinations out of 1000 (max. 500000)
- 247 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 340 PDF objects out of 1000 (max. 8388607)
+ 290 compressed objects within 3 object streams
+ 60 named destinations out of 1000 (max. 500000)
+ 292 words of extra memory for PDF output out of 10000 (max. 10000000)
 
