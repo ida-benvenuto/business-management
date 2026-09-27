@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.11.15)  14 SEP 2026 12:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.11.15)  27 SEP 2026 22:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -511,38 +511,53 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 \tcb@temp=\box74
 \tcb@temp=\box75
 \tcb@temp=\box76
+) (/usr/local/texlive/2025basic/texmf-dist/tex/latex/tools/array.sty
+Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
+\col@sep=\dimen286
+\ar@mcellbox=\box77
+\extrarowheight=\dimen287
+\NC@list=\toks49
+\extratabsurround=\skip59
+\backup@length=\skip60
+\ar@cellbox=\box78
+) (/usr/local/texlive/2025basic/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
+\multirow@colwidth=\skip61
+\multirow@cntb=\count329
+\multirow@dima=\skip62
+\bigstrutjot=\dimen288
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 18.
-\c@definition=\count329
-\c@claim=\count330
-\c@proposition=\count331
-\c@theorem=\count332
-\c@observation=\count333
+Package hyperref Info: Option `colorlinks' set `true' on input line 20.
+\c@definition=\count330
+\c@claim=\count331
+\c@proposition=\count332
+\c@theorem=\count333
+\c@observation=\count334
  (/usr/local/texlive/2025basic/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count334
-\l__pdf_internal_box=\box77
+\l__color_backend_stack_int=\count335
+\l__pdf_internal_box=\box79
 ) (./notes.aux)
 \openout1 = `notes.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -580,42 +595,42 @@ LaTeX Font Info:    ... okay on input line 26.
 
 (/usr/local/texlive/2025basic/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count335
-\scratchdimen=\dimen286
-\scratchbox=\box78
-\nofMPsegments=\count336
-\nofMParguments=\count337
-\everyMPshowfont=\toks49
-\MPscratchCnt=\count338
-\MPscratchDim=\dimen287
-\MPnumerator=\count339
-\makeMPintoPDFobject=\count340
-\everyMPtoPDFconversion=\toks50
+\scratchcounter=\count336
+\scratchdimen=\dimen289
+\scratchbox=\box80
+\nofMPsegments=\count337
+\nofMParguments=\count338
+\everyMPshowfont=\toks50
+\MPscratchCnt=\count339
+\MPscratchDim=\dimen290
+\MPnumerator=\count340
+\makeMPintoPDFobject=\count341
+\everyMPtoPDFconversion=\toks51
 ) (/usr/local/texlive/2025basic/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (/usr/local/texlive/2025basic/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring ON on input line 26.
- (./notes.out) (./notes.out)
+Package hyperref Info: Link coloring ON on input line 28.
 \@outlinefile=\write4
 \openout4 = `notes.out'.
 
 
 Couldn't patch \deferred@thm@head!
-LaTeX Font Info:    Trying to load font information for U+msa on input line 32.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 34.
 (/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 32.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 34.
  (/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
 [1
 
-{/usr/local/texlive/2025basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2025basic/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}] (./notes.toc)
+{/usr/local/texlive/2025basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2025basic/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
+No file notes.toc.
 \tf@toc=\write5
 \openout5 = `notes.toc'.
 
@@ -625,14 +640,14 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.33 \newpage
+l.35 \newpage
               [1
 
 ]
 Chapter 1.
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 43.
+(hyperref)                than one, level fixed on input line 45.
 
 
 
@@ -644,7 +659,7 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 Chapter 2.
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 108.
+(hyperref)                than one, level fixed on input line 110.
 
 
 
@@ -656,17 +671,17 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 Chapter 3.
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 141.
+(hyperref)                than one, level fixed on input line 143.
 
 
 
 [6
 
 ]
-<imm/Screenshot 2026-09-10 alle 18.50.03.png, id=211, 734.745pt x 452.69125pt>
+<imm/Screenshot 2026-09-10 alle 18.50.03.png, id=54, 734.745pt x 452.69125pt>
 File: imm/Screenshot 2026-09-10 alle 18.50.03.png Graphic file (type png)
 <use imm/Screenshot 2026-09-10 alle 18.50.03.png>
-Package pdftex.def Info: imm/Screenshot 2026-09-10 alle 18.50.03.png  used on input line 173.
+Package pdftex.def Info: imm/Screenshot 2026-09-10 alle 18.50.03.png  used on input line 175.
 (pdftex.def)             Requested size: 364.19667pt x 224.39024pt.
 
 
@@ -674,7 +689,7 @@ Package pdftex.def Info: imm/Screenshot 2026-09-10 alle 18.50.03.png  used on in
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.183 T
+l.185 T
        he value proposition can be based on different factors, such as: <./imm/Screenshot 2026-09-10 alle 18.50.03.png>]
 
 [8]
@@ -686,10 +701,10 @@ l.183 T
 [11]
 
 [12]
-<imm/Google-Business-Model-Canvas.jpeg, id=243, 1927.2pt x 1084.05pt>
+<imm/Google-Business-Model-Canvas.jpeg, id=103, 1927.2pt x 1084.05pt>
 File: imm/Google-Business-Model-Canvas.jpeg Graphic file (type jpg)
 <use imm/Google-Business-Model-Canvas.jpeg>
-Package pdftex.def Info: imm/Google-Business-Model-Canvas.jpeg  used on input line 449.
+Package pdftex.def Info: imm/Google-Business-Model-Canvas.jpeg  used on input line 451.
 (pdftex.def)             Requested size: 455.24411pt x 256.07509pt.
 
 
@@ -699,7 +714,7 @@ Package pdftex.def Info: imm/Google-Business-Model-Canvas.jpeg  used on input li
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.454 \chapter
+l.456 \chapter
               {Lecture 3 – 14/09/2026 Cornell note taking model} <./imm/Google-Business-Model-Canvas.jpeg>]
 Chapter 4.
 
@@ -707,34 +722,34 @@ Chapter 4.
 [15
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 466--478
+Underfull \hbox (badness 10000) in paragraph at lines 468--480
 
  []
 
 
-Underfull \hbox (badness 7256) in paragraph at lines 466--478
+Underfull \hbox (badness 7256) in paragraph at lines 468--480
 \T1/cmr/m/n/12 resources of a busi-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--478
+Underfull \hbox (badness 10000) in paragraph at lines 468--480
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--478
+Underfull \hbox (badness 10000) in paragraph at lines 468--480
 \T1/cmr/m/n/12 stakeholders of a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--478
+Underfull \hbox (badness 10000) in paragraph at lines 468--480
 
  []
 
-<imm/Screenshot 2026-09-14 alle 10.56.31.png, id=261, 489.83pt x 337.26pt>
+<imm/Screenshot 2026-09-14 alle 10.56.31.png, id=124, 489.83pt x 337.26pt>
 File: imm/Screenshot 2026-09-14 alle 10.56.31.png Graphic file (type png)
 <use imm/Screenshot 2026-09-14 alle 10.56.31.png>
-Package pdftex.def Info: imm/Screenshot 2026-09-14 alle 10.56.31.png  used on input line 491.
+Package pdftex.def Info: imm/Screenshot 2026-09-14 alle 10.56.31.png  used on input line 493.
 (pdftex.def)             Requested size: 251.29659pt x 173.01926pt.
 
 
@@ -742,34 +757,34 @@ Package pdftex.def Info: imm/Screenshot 2026-09-14 alle 10.56.31.png  used on in
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.508 \newpage
+l.510 \newpage
                <./imm/Screenshot 2026-09-14 alle 10.56.31.png>]
-Underfull \hbox (badness 2418) in paragraph at lines 517--526
+Underfull \hbox (badness 2418) in paragraph at lines 519--528
 \T1/cmr/m/n/12 goal is and how the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 517--526
+Underfull \hbox (badness 10000) in paragraph at lines 519--528
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 517--526
+Underfull \hbox (badness 10000) in paragraph at lines 519--528
 \T1/cmr/m/n/12 timeline: risk and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 517--526
+Underfull \hbox (badness 10000) in paragraph at lines 519--528
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 517--526
+Underfull \hbox (badness 10000) in paragraph at lines 519--528
 \T1/cmr/m/n/12 results: profit or
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 529--534
+Underfull \hbox (badness 10000) in paragraph at lines 531--536
 
  []
 
@@ -777,27 +792,410 @@ Underfull \hbox (badness 10000) in paragraph at lines 529--534
 
 [17]
 
-[18] (./notes.aux)
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 614--627
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 614--627
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 614--627
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 614--627
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 614--627
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 614--627
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 614--627
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 614--627
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 614--627
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 614--627
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 614--627
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 614--627
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 614--627
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 632--641
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 632--641
+
+ []
+
+
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 662--672
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 662--672
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 662--672
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 662--672
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 662--672
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 662--672
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 662--672
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 662--672
+\T1/cmr/m/n/12 double en-try book-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 662--672
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 662--672
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 662--672
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 662--672
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 662--672
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 662--672
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 662--672
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 662--672
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 662--672
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 662--672
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 662--672
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 662--672
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 662--672
+\T1/cmr/m/n/12 differennce be-tween
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 675--692
+
+ []
+
+
+Underfull \hbox (badness 1527) in paragraph at lines 675--692
+\T1/cmr/m/n/12 i can have prof-its with-out cash, be-cause the profit is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 675--692
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 675--692
+
+ []
+
+
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 708--716
+\T1/cmr/m/n/12 dif-fer-ence be-tween
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 708--716
+\T1/cmr/m/n/12 book-keep-ing and ac-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 708--716
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 708--716
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 708--716
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 708--716
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 708--716
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 708--716
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 708--716
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 708--716
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 708--716
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 708--716
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 708--716
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 708--716
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 708--716
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 708--716
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 708--716
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 708--716
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 708--716
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 708--716
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 708--716
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 708--716
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 708--716
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 708--716
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 708--716
+
+ []
+
+<imm/STATO-PATRIMONIALE-1-1.jpg, id=153, 1014.79124pt x 745.78625pt>
+File: imm/STATO-PATRIMONIALE-1-1.jpg Graphic file (type jpg)
+<use imm/STATO-PATRIMONIALE-1-1.jpg>
+Package pdftex.def Info: imm/STATO-PATRIMONIALE-1-1.jpg  used on input line 745.
+(pdftex.def)             Requested size: 364.19667pt x 267.65213pt.
+
+
+[21]
+
+[22
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.748  \chapter
+               {understand the business - finance(3) -21/09/2026} <./imm/STATO-PATRIMONIALE-1-1.jpg>]
+Chapter 5.
+
+
+[23
+
+]
+Chapter 6.
+
+
+[24
+
+]
+/Users/idabenvenuto/Desktop/spagna/business management/notes.tex:803: Missing $ inserted.
+<inserted text> 
+                $
+l.803 \section*{HW_28/09/2026}
+                              
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/idabenvenuto/Desktop/spagna/business management/notes.tex:803: Missing $ inserted.
+<inserted text> 
+                $
+l.803 \section*{HW_28/09/2026}
+                              
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+
+[25]
+
+[26] (./notes.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-Package rerunfilecheck Info: File `notes.out' has not changed.
-(rerunfilecheck)             Checksum: 2F2E52AA385ED5F6D418681FDFEFCAE2;5719.
+
+
+Package rerunfilecheck Warning: File `notes.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `notes.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  90BAC365457292DFA986896D9D7B0E7F;6911.
  ) 
 Here is how much of TeX's memory you used:
- 23687 strings out of 474662
- 452189 string characters out of 5751108
- 822914 words of memory out of 5000000
- 46289 multiletter control sequences out of 15000+600000
- 576356 words of font info for 79 fonts, out of 8000000 for 9000
+ 23817 strings out of 474662
+ 454415 string characters out of 5751108
+ 824633 words of memory out of 5000000
+ 46399 multiletter control sequences out of 15000+600000
+ 577902 words of font info for 85 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 98i,8n,101p,606b,601s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on notes.pdf (19 pages, 1951182 bytes).
+ 98i,16n,101p,697b,601s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on notes.pdf (27 pages, 2117004 bytes).
 PDF statistics:
- 340 PDF objects out of 1000 (max. 8388607)
- 290 compressed objects within 3 object streams
- 60 named destinations out of 1000 (max. 500000)
- 292 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 277 PDF objects out of 1000 (max. 8388607)
+ 210 compressed objects within 3 object streams
+ 79 named destinations out of 1000 (max. 500000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 

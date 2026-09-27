@@ -35,3 +35,9 @@
 \contentsline {section}{\numberline {4.2}timeline}{17}{section.4.2}%
 \contentsline {section}{\numberline {4.3}results}{17}{section.4.3}%
 \contentsline {section}{\numberline {4.4}cost of complexity}{18}{section.4.4}%
+\contentsline {chapter}{\numberline {5}understand the business - finance(3) -21/09/2026}{23}{chapter.5}%
+\contentsline {chapter}{\numberline {6}understand the business - marketing(3) -23/09/2026}{24}{chapter.6}%
+\contentsline {section}{\numberline {6.1}depreciation}{24}{section.6.1}%
+\contentsline {section}{\numberline {6.2}the two clock of accounting}{24}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Financial analysis}{25}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}liquidity}{25}{subsection.6.3.1}%
