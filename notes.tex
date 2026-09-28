@@ -2,8 +2,6 @@
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage{amsmath,amssymb,amsthm}
-\usepackage{geometry}
-\usepackage{booktabs}
 \usepackage{xcolor}
 \usepackage{hyperref}
 \usepackage{parskip}
@@ -11,8 +9,53 @@
 \usepackage{float}
 \usepackage{enumitem}
 \usepackage{tcolorbox}
-\usepackage{array}
 \usepackage{multirow}
+\usepackage[margin=17mm,top=17mm,bottom=16mm]{geometry}
+\usepackage{array,tabularx,booktabs}
+\hypersetup{colorlinks=true,urlcolor=blue!50!black,linkcolor=blue!50!black}
+\usepackage{fancyhdr}
+\definecolor{ink}{HTML}{22334D}
+\definecolor{soft}{HTML}{4E6D88}
+\definecolor{line}{HTML}{BBCAD8}
+\definecolor{paperblue}{HTML}{F3F7FB}
+\fancyhf{}
+\fancyfoot[L]{\sffamily\footnotesize Understand the business \textbullet\ Finance}
+\fancyfoot[R]{\sffamily\footnotesize \thepage}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{5pt}
+\setlength{\tabcolsep}{4pt}
+\setlist[itemize]{leftmargin=1.2em,topsep=2pt,itemsep=2pt,parsep=0pt}
+
+\newcommand{\CornellStart}[2]{%
+  \clearpage
+  {\sffamily\color{soft}\small STUDY NOTES \hfill #2\par}
+  \vspace{2mm}
+  {\sffamily\bfseries\color{ink}\Large #1\par}
+  \vspace{2mm}{\color{line}\hrule height 0.7pt}\vspace{5mm}
+  \noindent
+  \begin{minipage}[t][0.705\textheight][t]{0.235\textwidth}
+  \sffamily\small
+  {\color{soft}\bfseries CUE COLUMN}\par\vspace{2mm}
+  {\color{line}\hrule height 0.4pt}\vspace{3mm}
+}
+\newcommand{\CornellNotes}{%
+  \end{minipage}\hfill
+  \begin{minipage}[t][0.705\textheight][t]{0.008\textwidth}
+  \end{minipage}\hfill
+  \begin{minipage}[t][0.705\textheight][t]{0.70\textwidth}
+  {\sffamily\small\color{soft}\bfseries NOTE-TAKING AREA}\par\vspace{2mm}
+  {\color{line}\hrule height 0.4pt}\vspace{2mm}
+}
+\newcommand{\CornellEnd}[1]{%
+  \end{minipage}\par\vspace{2.5mm}
+  {\color{line}\hrule height 0.7pt}\vspace{2mm}
+  {\sffamily\small\color{soft}\bfseries SUMMARY}\par\vspace{1mm}
+  {\small #1\par}
+}
+\newcommand{\Cue}[1]{\textbf{#1}\par\vspace{7mm}}
+\newcommand{\Topic}[1]{{\sffamily\bfseries\color{ink}#1.}\enspace}
 
 \geometry{margin=2.5cm}
 \newtcolorbox{keybox}[1][]{colback=blue!5!white,colframe=blue!75!black,fonttitle=\bfseries,title=#1}
@@ -24,7 +67,6 @@
 \newtheorem{proposition}{Proposition}
 \newtheorem{theorem}{Theorem}
 \newtheorem{observation}{Observation}
-
 \begin{document}
 
 \title{\textbf{Business Management}\\[0.5em]\large Lecture Notes}
@@ -453,12 +495,11 @@ The cost structure can be divided into different types.
 \end{figure}
 
 
-\chapter{Lecture 3 – 14/09/2026 Cornell note taking model}
-This method consists of dividing the page into three parts: the right part is the note-taking area, the left part is the cue column, and the bottom part is the summary area. The note-taking area is used to write down the main ideas and details of the lecture or reading material. The cue column is used to write down questions, keywords, or prompts that help you recall the information in the note-taking area. The summary area is used to write a brief summary of the main points and concepts covered in the notes.
-
-\newpage
 \thispagestyle{empty}
 \begin{center}
+    
+    
+    \chapter{}
     {\Large\textbf{understand the business}}\\[0.5em]
     \rule{\textwidth}{0.4pt}
 \end{center}
@@ -476,7 +517,6 @@ This method consists of dividing the page into three parts: the right part is th
     stakeholders of a business
     \newline
     \\
-    flow of money
 \end{minipage}%
 \hfill
 \begin{minipage}[t][0.68\textheight][t]{0.69\textwidth}
@@ -484,24 +524,25 @@ This method consists of dividing the page into three parts: the right part is th
     \rule{\linewidth}{0.4pt}
     the goal of a business is to create value for its customers and generate profit. profits is different with revenue. we can have revenue without profit.(paypal)
     \newline
-    a business have 4 type of resources: money, people, technology, and materials. they are totally connected. the money is the most important resource because it allows the company to acquire other resources. the people are the most important resource because they are the ones who create value for the customers. the technology is the most important resource because it allows the company to create value for the customers. the materials are the most important resource because they allow the company to create value for the customers.
-    \newline
-    stakeholders are divided in 4 type and depend on their goals. the 4 type are: shareholders, executives, middle managers, and employees. 
-    shareholders not always are inside in the company and they are interested about the profits, while the executives (CEO) are interested about the growth of the company. the middle managers are interested about the performance of the company, while the employees are interested about the stability.
-    \section{flow of money}
-    \begin{figure}[H]
-        \includegraphics[width=0.8\textwidth]{imm/Screenshot 2026-09-14 alle 10.56.31.png}
-        \caption{Flow of Money}
-    \end{figure}
-    
+    A business have 4 type of resources
+    \begin{itemize}
+        \item money:allows the company to acquire other \textbf{resources.}
+        \item people: they are the ones who create value for the customers.
+        \item technology: allows the company to create value for the customers.
+        \item materials: they are the raw materials that are used to create value for the customers.
+    \end{itemize}
+    These resources work together. No single resource is always
+“the most important”: its importance depends on the business
+and the situation
+\\\\\
+    \textbf{stakeholders }are divided in 4 type and depend on their goals.
+    \begin{itemize}
+        \item shareholders: they are the owners of the company and they are interested about the profits.   
+        \item executives: they are the CEO and they are interested about the growth of the company.
+        \item middle managers: they are the managers and they are interested about the performance of the company.
+        \item employees: they are the workers and they are interested about the stability of the company.
+    \end{itemize} 
 \end{minipage}
-
-\vfill
-\noindent\rule{\textwidth}{0.4pt}\\[0.5em]
-\textbf{Summary}\\[0.5em]
-\rule{\textwidth}{0.4pt}
-\vspace{0.18\textheight}
-we can have money without profit;without money we can't have other resources.
 
 
 
@@ -518,45 +559,48 @@ we can have money without profit;without money we can't have other resources.
 \begin{minipage}[t]{0.27\textwidth}
     \textbf{Cue column}\\[0.5em]
     \rule{\linewidth}{0.4pt}
-    for every type of company what the primary goal is and how the profit is used.
+    flow of money
+    \\\\
+    different types of companies
     \newline
     \\
-    timeline: risk and profitability 
-    \newline
-    \\
-    results: profit or loss
 \end{minipage}%
 \hfill
 \begin{minipage}[t]{0.69\textwidth}
     \textbf{Note-taking area}\\[0.5em]
     \rule{\linewidth}{0.4pt}
-   ( providers of assets or materials can be see equal, because they are debtors of the company.)
-    \\
-    \begin{itemize}
-        \item for-profit companies: (apple, google, amazon) the goal is stakeholder returns. the profit is used to reinvest in the company.
-        \item non-profit companies: the goal is the misson of the company. the profit is used to reinvest in the company(expand the misson).
-        \item cooperative companies: the members are worker that are interested about the growth of company to have benefits. the goal is to create value for the customers and generate profit. the profit is used to pay the shareholders and to reinvest in the company.
-        \item social enterprises: (patagonia) the goal is have profits but also to have a social impact. the profit is used to pay the shareholders and to reinvest in the company.
-        \item governamet agency: school, hospital, police, fire department. the goal is to create value for the customers and generate profit. the profit is used to pay the shareholders and to reinvest in the company.
-    \end{itemize}
-    \section{timeline}
-    it is necessary to manage profitability and risk over the time.
-    during the first years of a company, the risk is high and the profitability is low. after some years, the stability of company growht and for this reason the risk became low(TESLA).
-    the profitability after same years can be ridursi because the market is saturated and the competition is high.
-    \section{results}
-    the results of a company can be profit or loss. we calculate it like: income - expenses
+        \section{flow of money}
+    \begin{figure}[H]
+        \includegraphics[width=0.8\textwidth]{imm/Screenshot 2026-09-14 alle 10.56.31.png}
+        \caption{Cash may enter through customer payments,
+owner contributions or loans. It may leave to pay suppliers,
+employees, taxes, interest, lenders or investments. An owner
+contribution and a loan bring in cash, but are not sales rev-
+enue. Paying for equipment uses cash, but the equipment is
+normally recorded as an asset when purchased. Cash move-
+ments alone do not show whether the business made a profit.}
+    \end{figure}
+    
+Organisations have different aims:
+\begin{itemize}
+    \item \textbf{For-profit companies} aim to create returns for their owners. They can reinvest profits or distribute them to owners.
+    \item \textbf{Non-profit organisations} use any surplus to support their mission.
+    \item \textbf{Cooperatives} are owned by their members and aim to benefit them.
+    \item \textbf{Social enterprises} combine business activity with a social or environmental goal.
+    \item \textbf{Government agencies}, such as public schools or hospitals, provide public services. Profit is not their main goal.
+\end{itemize}
 \end{minipage}
 
 \noindent\rule{\textwidth}{0.4pt}\\[0.5em]
 \textbf{Summary}\\[0.5em]
     \rule{\linewidth}{0.4pt}
-companies have different goals and different ways to use the profit. the risk and profitability change over the time. the results can be profit or loss.
+companies have different goals and different ways to use the profit. 
 
 
 \newpage
 \thispagestyle{empty}
 \begin{center}
-    {\Large\textbf{VALUE CHAIN AND FINANCIAL}}\\[0.5em]
+    {\Large\textbf{understand a business}}\\[0.5em]
     \rule{\textwidth}{0.4pt}
 \end{center}
 
@@ -564,48 +608,39 @@ companies have different goals and different ways to use the profit. the risk an
 \begin{minipage}[t]{0.27\textwidth}
     \textbf{Cue column}\\[0.5em]
     \rule{\linewidth}{0.4pt}
+    risk and profitability over the time
+        \\\\
         legal forms
-country and laws
-company size
-cost of complexity
+        \\\\
+        country and laws
 \end{minipage}%
 \hfill
 \begin{minipage}[t]{0.69\textwidth}
     \textbf{Note-taking area}\\[0.5em]
     \rule{\linewidth}{0.4pt}
-    how work in the company
-    country and laws
-    complexity and cost
-    \begin{itemize}
-        \item freelancer: a person who works independently and offers services to clients on a project basis.
-        \item society autonoma: a company that is owned and operated by a single individual, who is responsible for all aspects of the business.
-        \item society limited: a company that is owned by a small group of individuals, who share the profits and losses of the business.
-    \end{itemize}
-    every country has different laws and regulations for the companies. for example:
-    \begin{itemize}
-        \item walmart: USA, INC
-        \item BMW: Germany,AG
-        \item Ferrari: Italy, SPA
-    \end{itemize}
-    \section{cost of complexity}
-    the cost of complexity is the cost of managing a complex organization. 
-    it depend on small, medium, and large companies. the cost of complexity is higher for large companies because they have more employees, more customers, more products, and more markets. the cost of complexity is lower for small companies because they have fewer employees, fewer customers, fewer products, and fewer markets.
+    
+    \section{timeline}
+    it is necessary to manage profitability and risk over the time.
+    during the first years of a company, the risk is high and the profitability is low. after some years, the stability of company growht and for this reason the risk became low(TESLA).
+    the profitability after same years can be ridursi because the market is saturated and the competition is high.
+    \section{Legal forms} Working independently is not itself one universal legal form. A \emph{freelancer} works independently for clients; the applicable registration and legal structure depend on the country. A \emph{sole proprietor/sole trader} runs a business alone, generally without a separate company entity and with personal liability for business obligations. A \emph{partnership} has two or more owners; liability depends on its particular form and local law. A \emph{limited-liability company or corporation} is a separate entity whose owners generally have limited liability, subject to legal exceptions. It can have one or many owners: limited liability does \textbf{not} mean ``owned by a small group''.
+    \section{Country and rules} Company names and forms vary across legal systems. For example, \emph{Inc.} is used in the US, \emph{AG} in Germany and \emph{S.p.A.} in Italy. These are examples of legal designations, not interchangeable structures. Registration, taxes, employment rules and reporting duties also depend on where the business operates.
 
 \end{minipage}
 
 \noindent\rule{\textwidth}{0.4pt}\\[0.5em]
 \textbf{Summary}\\[0.5em]
     \rule{\linewidth}{0.4pt}
-Different legal forms determine how companies are owned and managed. Companies must follow the laws of the countries in which they operate, and larger organizations face higher costs of complexity because they manage more employees, customers, products, and markets.
+Different legal forms determine how companies are owned and managed. Companies must follow the laws of the countries in which they operate, and larger organizations face higher costs of complexity because they manage more employees, products, and markets.
  
 
 
 
 
-\newpage
 \thispagestyle{empty}
 \begin{center}
-    {\Large\textbf{understand the business - Finance(2) -16/09/2026}}\\[0.5em]
+    \chapter{}
+    {\Large\textbf{understand the business - Finance }}\\[0.5em]
     \rule{\textwidth}{0.4pt}
 \end{center}
 
@@ -613,43 +648,45 @@ Different legal forms determine how companies are owned and managed. Companies m
 \begin{minipage}[t]{0.27\textwidth}
     \textbf{Cue column}\\[0.5em]
     \rule{\linewidth}{0.4pt}
-    what's finance
-    \\
-    \\
-    \\
-    \\
-    financial tool
-    \\
-    \\
-    \\ \\ \\ \\ \\
-        \\ \\ \\ \\
-        money flow and balance
-
+    cost of complexity
+    \\\\\\\\\\\\\\
+    financial statements
+    \\\\\\\\\\\\\
+    financial tools
 
 \end{minipage}%
 \hfill
 \begin{minipage}[t]{0.69\textwidth}
     \textbf{Note-taking area}\\[0.5em]
     \rule{\linewidth}{0.4pt}
-    the finance is necessary to manage the company, it responce at question like: how much money we have? how much money we need(how I can borrow them)? how much money we spend(texes...)? how much money we earn?
-    \\ In finance there are several tools to answer these questions, like: financial acconting, taxation, cost accounting, financial management, and investiment analysis.
-    \\ In a business is necessary record every transaction, and to this we use bookkeeping. The bookkeeping is the process of organizing financial transactions in a systematic way.
-    in this part we use balance sheet, income statement, and cash flow statement to understand the financial situation of the company.
-    \\ \\ \\
-    money in a company came from different sources,and it is used for different purposes. the bookkeeping is the process of recording and organizing financial transactions in a systematic way. the accounting is the process of analyzing and interpreting financial data to make informed business decisions.
-    \begin{itemize}
-    \item profit: the difference between revenue and expenses. it is the money that a company earns after deducting all costs.
-    \item cash: the money that a company has on hand or in its bank accounts. it is used to pay for expenses and invest in the business.
-    \item revenue: the money that a company earns from its business activities, such as sales of products or services.
-    \item equity: the ownership interest in a company. it represents the residual value of the company after deducting liabilities from assets.
-    \item debt: the money that a company owes to creditors. it is used to finance the business and can be in the form of loans, bonds, or other financial instruments.
-    \end{itemize}
+\\Finance helps a company answer questions such as: How much money do we have? How much do we need? How can we obtain it?
+\section{Three useful financial statements}
+\vspace{-2mm}
+\begin{center}
+\footnotesize
+\begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}p{.26\linewidth}>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}p{.18\linewidth}@{}}
+\toprule
+Statement & Main question & Time frame \\
+\midrule
+Balance sheet & What assets, liabilities and equity does the business have? & At a date \\
+Income statement & What revenue and expenses produced profit or loss? & Over a period \\
+Cash flow statement & How did cash change through operating, investing and financing activities? & Over a period \\
+\bottomrule
+\end{tabularx}
+\end{center}
+These are a useful starting point, not necessarily the complete set of statements required by a reporting framework.
+
+\section{money values}
+\begin{itemize}
+    \item \textbf{Revenue}: income earned from selling goods or services.
+    \item \textbf{Profit}: revenue minus expenses.
+    \item \textbf{Cash}: money available now, for example in a bank account.
+    \item \textbf{Debt}: money owed to creditors.
+    \item \textbf{Equity}: the owners' interest in the company after liabilities are deducted from assets.
+\end{itemize}
+   
 \end{minipage}
 
-\noindent\rule{\textwidth}{0.4pt}\\[0.5em]
-\textbf{Summary}\\[0.5em]
-    \rule{\linewidth}{0.4pt}
-the finance is the subdget that analyze the money flow in a company. the finance use several tools to understand the financial situation of the company. 
 \newpage
 \thispagestyle{empty}
 \begin{center}
@@ -664,99 +701,50 @@ the finance is the subdget that analyze the money flow in a company. the finance
     financial equation
     \\ \\ \\ \\
      \\ \\ \\ \\
-    double entry bookkeeping
+     \\\\\\\\
+     difference between bookkeeping and accounting
     \\ \\ \\ \\
-    \\ \\ \\ \\
-    \\ \\ \\ \\ \\
-    differennce between cash and profit
-\end{minipage}%
-\hfill
-\begin{minipage}[t]{0.69\textwidth}
-    \textbf{Note-taking area}\\[0.5em]
-    \rule{\linewidth}{0.4pt}
-        \textbf{the financial equation} is: assets = liabilities + equity. this equazion shows that the assets of a company are financed by the liabilities and the equity. the assets are the resources that a company owns, while the liabilities are the obligations that a company owes to others. the equity is the residual interest in the assets of a company after deducting liabilities.
-    \\the accounting equation behaves like a system inveriant.For example if a investor give 1000 to a company, the assets increase of 1000 and the equity increase of 1000. if the company buy a machine for 500, the assets decrease of 500 and the liabilities increase of 500.
-    this system is double entry bookkeeping, because every transaction affects at least two accounts. 
-    in the balance this equation is always true, because the total credits (right side) are always equal to the total debts (left side).
-        \\ for example a company pay a car 30000 in 60 days. the car is an asset, and the debt is a liability. when the company pay the car, the asset increase of 30000 and the liability decrease of 30000. the total credits are always equal to the total debts.
-    \\if the car is bought in cash, the asset increase of 30000 for the car and the asset decrease of 30000 for cash. 
-    \\ \\
-    i can have profits without cash, because the profit is the difference between revenue and expenses, while the cash is the money that a company has on hand or in its bank accounts. for example if a company sell a product for 1000 and the cost of the product is 500, the profit is 500. but if the customer pay in 60 days, the cash is 0.
-    \\\\\\
-The difference between equity and liabilities is that
-equity represents the ownership interest in a company, whereas
-liabilities represent the obligations a company has
-towards third parties. Equity is what remains of a company's assets
-after deducting liabilities, while liabilities are
-the amount of money a company owes to creditors.
-\end{minipage}
-\noindent\rule{\textwidth}{0.4pt}\\[0.5em]
-\textbf{Summary}\\[0.5em]
-    \rule{\linewidth}{0.4pt}
-    In the balance every transaction have two effects, one on the left side and one on the right side. the total credits are always equal to the total debts.
-
-
-\newpage
-\thispagestyle{empty}
-\begin{center}
-    {\Large\textbf{understand the business - Finance(2) -16/09/2026}}\\[0.5em]
-    \rule{\textwidth}{0.4pt}
-\end{center}
-
-\noindent
-\begin{minipage}[t]{0.27\textwidth}
-    \textbf{Cue column}\\[0.5em]
-    \rule{\linewidth}{0.4pt}
-    difference between bookkeeping and accounting
-    \\ \\ \\ \\     \\ \\ \\ \\
-    \\ \\ \\ \\     \\ \\ \\ \\
-    \\ \\ \\ \\
-    \\ \\ \\ \\
-    account families
-
 
 \end{minipage}%
 \hfill
 \begin{minipage}[t]{0.69\textwidth}
     \textbf{Note-taking area}\\[0.5em]
     \rule{\linewidth}{0.4pt}
-    \subsection*{accaunting}the accounting is the process of analyzing and interpreting transactions. it is used to prepare financial statements, such as the balance sheet, income statement, and cash flow statement.
-    the most util thinks are balancace and profit s.
-    \subsection*{bookkeeping} who write the bookkeping usally use daybook and general ledger. the daybook is a chronological record of all financial transactions. the general ledger is a record of all accounts and their balances. the chart of accounts is a list of all accounts used in the accounting system.
-     \\
-    At the end we cans ay that this two part are connected, because the bookkeeping is the process of recording financial transactions, while accounting is the process of analyzing and interpreting those transactions to prepare financial statements. account focus in why the transaction happened, while bookkeeping focus in what happened.
-    \subsubsection*{five account families}
+    \textbf{the financial equation} 
+    \[ \boxed{\text{Assets}=\text{Liabilities}+\text{Equity}.} \]
+ this equazion shows that the assets of a company are financed by the liabilities and the equity. 
+ \begin{itemize}
+    \item the assets are the resources that a company owns
+    \item the liabilities are the obligations that a company owes to others. 
+    \item the equity is the residual interest in the assets of a company after deducting liabilities.
+ \end{itemize}
+ \subsection*{bookkeeping} 
+  the bookkeeping is the process of recording financial transactions daily.Usually tools of this process are: daybook and general ledger. the daybook is a chronological record of all financial transactions. the general ledger is a record of all accounts and their balances. the chart of accounts is a list of all accounts used in the accounting system.
+    
+ \subsection*{accaunting}the accounting is the process of analyzing and interpreting transactions. It is used to prepare financial statements, such as the balance sheet, income statement, and cash flow statement.
+     \subsubsection*{five account families}
     \begin{itemize}
     \item assets: resources owned by the company that have economic value and can be used to generate revenue(cash, machine...).
-    \item liabilities: obligations or debts that the company owes to external parties,( loans, accounts payable, or taxes.)
-    \item equity: the residual interest in the assets of the company after deducting liabilities. it represents the ownership interest of shareholders or owners.
-    \item revenue: the income generated from the company's primary business activities, (sales of products or services)
-    \item expenses: the costs incurred in the process of generating revenue, (salaries)
+    \item liabilities: obligations that a company owes to others, such as loans, accounts payable, and taxes payable.
+    \item equity: the residual interest in the assets of a company after deducting liabilities.
+    \item revenue: income earned from selling goods or services.
+    \item expenses: costs incurred in the process of generating revenue, such as salaries, rent, and utilities.
     \end{itemize}
     expence in the left and revenue in the right.
 \end{minipage}
 
-\noindent\rule{\textwidth}{0.4pt}\\[0.5em]
-\textbf{Summary}\\[0.5em]
-    \rule{\linewidth}{0.4pt}
-    bookkeeping is the process of recording financial transactions, while accounting is the process of analyzing and interpreting those transactions to prepare financial statements. The five account families are assets, liabilities, equity, revenue, and expenses.
+\newpage
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.8\textwidth]{imm/STATO-PATRIMONIALE-1-1.jpg}
     \caption{Account Families}
 \end{figure}
- \chapter{understand the business - finance(3) -21/09/2026}
- balanace Sheet is a financial statement that provides a snapshot of a company's financial position at a specific point in time. It shows the company's assets, liabilities, and equity, and how they are related through the accounting equation: Assets = Liabilities + Equity.
- is divided on : what the company owns (assets) and what the company owes (liabilities and equity). 
- left side: assets, right side: liabilities and equity. the left side is divided in current assets and non-current assets. the right side is divided in current liabilities and non-current liabilities. the equity is the residual interest in the assets of the company after deducting liabilities.
-    
+
+ \chapter{21/09/2026}
+ balance Sheet is a financial statement that provides a snapshot of a company's financial position at a specific point in time.
+ it records the current transactions (max one year) and is divided in two main sections: assets and liabilities/equity.
 the asset are written in order of liquidity, which means that the most liquid assets are listed first, followed by less liquid assets. This allows investors to quickly assess the liquidity of a company and its ability to meet short-term obligations. The order of liquidity is typically as follows: cash and cash equivalents, marketable securities, accounts receivable, inventory, and other current assets. By presenting assets in this order, investors can better understand the company's financial position and make informed investment decisions.
 the liabilities are also listed in order of due, which means that the liabilities that are due soonest are listed first, followed by those that are due later. This allows investors to quickly assess the company's ability to meet its short-term obligations and manage its long-term debt. The order of maturity is typically as follows: accounts payable, short-term debt, long-term debt, and other liabilities. By presenting liabilities in this order, investors can better understand the company's financial position and make informed investment decisions.
-\\what is the difference between a assets and a liability?
-\\an asset is a resource that a company owns or controls that has economic value and can be used to generate revenue. 
-\\a liability is an obligation that a company owes to another party, they are usually in the form of money, goods, or services.
-\\The PL and BS are connected because Profits and lost is the final result of the company in term of revenue and expenses, while the balance sheet shows the financial position of the company at a specific point in time. so if we have a profit, the equity will increase, while if we have a loss, the equity will decrease. And it's the reason why we need PL to complete BS
-\chapter{understand the business - marketing(3) -23/09/2026}
 \section{depreciation}
 the depreciation is the process of allocating the cost of a long-term asset over its useful life. It is a non-cash expense that reflects the decrease in value of an asset over time due to wear and tear, obsolescence, or other factors. Depreciation is recorded on the income statement as an expense, which reduces the company's net income. It is also recorded on the balance sheet as a reduction in the value of the asset. The purpose of depreciation is to match the cost of the asset with the revenue it generates over its useful life, providing a more accurate picture of the company's financial performance.
 the depreciation is considered an expense because it represents the allocation of the cost of a long-term asset over its useful life. When a company purchases a long-term asset, such as equipment or a building, it records the cost of the asset on its balance sheet as an asset. However, over time, the value of the asset decreases due to wear and tear, obsolescence, or other factors. To reflect this decrease in value, the company records depreciation as an expense on its income statement. This expense reduces the company's net income and reflects the true cost of using the asset over time.
@@ -769,92 +757,86 @@ the time of use is 5 years
 the annual depreciation is (3000-500)/5=
 \section{the two clock of accounting}
 accounting has two clocks: the cash clock and the economic clock. The cash clock records transactions when cash is received or paid, while the economic clock records transactions when they are earned or incurred, regardless of when cash is exchanged. This means that revenue is recognized when it is earned, and expenses are recognized when they are incurred, even if payment has not yet been made. The accrual clock provides a more accurate picture of a company's financial performance and position, as it reflects the economic reality of transactions rather than just the timing of cash flows.
-\section{Financial analysis}
-Finanacial analisys refers to an assessment of viability, stability, and profitability of a company's financial performance and position using various financial statements and metrics. It involves analyzing the balance sheet, income statement, and cash flow statement to evaluate the company's profitability, liquidity, solvency, and efficiency. Financial analysis can help investors, creditors, and management make informed decisions about the company's operations, investments, and financing. Common techniques used in financial analysis include ratio analysis, trend analysis, and comparative analysis.
+
+\section{Purpose and main areas}
+
+Financial analysis examines a company's position and performance using financial statements and other information. 
+\\It helps managers, investors and creditors assess liquidity, solvency, profitability and efficiency. Analysts use ratios, changes over time and comparisons with similar businesses. A single ratio provides a clue, not a complete judgment.
 \begin{itemize}
-    \item liquidiity: company can satisfy its short-term obligations with its current assets. 
-    \item solvency: company can satisfy its long-term obligations with its total assets.
-    \item profitability: company can generate profit from its operations and investments.
-    \item asset turnover: company can generate revenue from its assets.
+    \item liquidity: ability to meet short-term obligations;
+    \item solvency: ability to sustain operations and meet financial commitments over the longer term;
+    \item profitability: relates income to sales or the resources used;
+    \item efficiency: describes how well resources generate sales; asset turnover is one measure of efficiency  
 \end{itemize}
-\subsection{liquidity}
-cash is the life-blood of a company: a company with high liquidity can easily convert its current assets into cash to pay off its short-term liabilities, while a company with low liquidity may struggle to meet its obligations and may face financial distress. Liquidity is important for maintaining the company's operations and reputation, as well as for attracting investors and creditors.
-\\ the \textbf{working capital} is a measure of a company's liquidity and represents the difference between its current assets and current liabilities(\begin{math}
-\text{Working Capital} = \text{Current Assets} - \text{Current Liabilities}
-\end{math}). It indicates the amount of capital available to fund day-to-day operations and meet short-term obligations. A positive working capital indicates that a company has enough current assets to cover its current liabilities, while a negative working capital indicates that a company may struggle to meet its short-term obligations.
-the current liabilities are the debt that a company must pay within one year, while the current assets are the resources that a company can convert into cash within one year.(short-term is one year, long-term is more than one year). We don't care about the equity.
-\\ the \textbf{ current ratio} is a financial metric that measures a company's ability to pay off its short-term liabilities with its short-term assets. It is calculated by :
-\begin{math}
-   \text{ current ratio }= \frac{\text{current assets}}{\text{current liabilities}}
-\end{math} A current ratio of 1 or higher indicates that a company has enough current assets to cover its current liabilities, while a current ratio below 1 indicates that a company may struggle to meet its short-term obligations. The current ratio is an important indicator of a company's liquidity and financial health.
-\\ the \textbf{quick ratio} is a financial metric that measures a company's ability to pay off its short-term liabilities with its most liquid assets, excluding inventory. 
-It is calculated by:
-\begin{math}
-\\
-\text{Quick Ratio} = \frac{\text{Current Assets} - \text{Inventory}}{\text{Current Liabilities}}
-\end{math}  
 
-A quick ratio of 1 or higher indicates that a company has enough liquid assets to cover its current liabilities, while a quick ratio below 1 indicates that a company may struggle to meet its short-term obligations. The quick ratio is a more conservative measure of liquidity than the current ratio, as it excludes inventory, which may not be easily converted into cash.
-\\inserisci esempi
+\section{Liquidity: working capital and ratios}
 
+Cash is immediately available for payment, but other current assets may not be converted into cash quickly or at their recorded value. A profitable company can therefore experience a cash shortage.
 
+Current assets include cash and items expected to be sold, consumed or realised in the normal operating cycle, or generally within twelve months. Current liabilities are obligations expected to be settled in that cycle or due in the short term. The twelve-month rule is a useful simplification, not the only classification criterion. Equity is not a current liability and is not subtracted when calculating working capital.
 
+Net working capital is an amount expressed in currency:
+\begin{equation*}
+\boxed{\text{Working capital}=\text{Current assets}-\text{Current liabilities}.}
+\end{equation*}
+A positive value means current assets exceed current liabilities at the balance-sheet date. It does not ensure that cash will be available when each bill becomes due: receivables may be collected late and inventory may sell slowly.
 
-\section*{HW_28/09/2026}
+The current ratio compares the same categories as working capital but expresses their relationship as a quotient:
+\begin{equation*}
+\text{Current ratio}=\frac{\text{Current assets}}{\text{Current liabilities}}.
+\end{equation*}
+The quick ratio focuses on assets that can more readily be used to pay short-term obligations:
+\begin{equation*}
+\text{Quick ratio}=\frac{\text{Cash}+\text{Short-term investments}+\text{Receivables}}{\text{Current liabilities}}.
+\end{equation*}
+It excludes inventory and other items, such as prepaid expenses, that cannot readily pay bills. An alternative simplified numerator is current assets minus inventory and prepayments, when those categories explain the difference. A ratio above 1 says that the assets included in its numerator exceed current liabilities on that date; it does not guarantee timely payment. The quality of receivables, payment dates, cash flows and industry norms also matter. Neither ratio is defined in the usual way when current liabilities are zero.
 
-\begin{table}[h]
-\centering
-\begin{tabular}{ccc}
+\section{Solvency and indebtedness}
 
-% Co A
-\begin{tabular}{|c|c|}
-\hline
-\multicolumn{2}{|c|}{\textbf{A}} \\
-\hline
-\multirow{2}{*}{100} & Equity: 60  \\
-\cline{2-2}
- & Debt: 40 \\
-\hline
-\textbf{100} & \textbf{100} \\
-\hline
-\end{tabular} 
+Solvency depends on obligations, the value and composition of assets, and the capacity to generate future cash. Merely having total assets above long-term debt is not a sufficient assessment. Borrowing can finance growth but creates payment commitments that increase risk if income or cash flows fall.
 
-&
+The term ``financial leverage ratio'' is ambiguous: it can refer to different measures. If the numerator includes \emph{all liabilities}, the first ratio should be labelled liabilities-to-equity:
+\begin{equation*}
+\text{Liabilities-to-equity}=\frac{\text{Total liabilities}}{\text{Total equity}}.
+\end{equation*}
+A value of 0.8 means that the company has 80 cents of liabilities for each euro of book equity. Some analysts use only interest-bearing borrowing in the numerator and call the result debt-to-equity; this is a different definition. The equity multiplier, assets divided by equity, is another leverage measure. A debt-to-equity figure is difficult to interpret in the usual way when equity is zero or negative.
 
-% Co B
-\begin{tabular}{|c|c|}
-\hline
-\multicolumn{2}{|c|}{\textbf{B}} \\
-\hline
-\multirow{2}{*}{100} & Equity: 100 \\
-\cline{2-2}
- & Debt: 0 \\
-\hline
-\textbf{100} & \textbf{100} \\
-\hline
-\end{tabular}
+If ``debt'' is defined as all liabilities, the corresponding ratio to assets is
+\begin{equation*}
+\text{Liabilities-to-assets}=\frac{\text{Total liabilities}}{\text{Total assets}}.
+\end{equation*}
+This indicates the share of book assets financed through obligations to others. If a course uses \emph{debt ratio} for interest-bearing borrowing divided by assets, that narrower definition should be stated and used consistently. A higher ratio can indicate greater financial risk, but its meaning depends on the business model, cash-flow stability and comparison group.
 
-&
+\section{Operating efficiency: asset turnover}
 
-% Co C
-\begin{tabular}{|c|c|}
-\hline
-\multicolumn{2}{|c|}{\textbf{C}} \\
-\hline
-\multirow{2}{*}{100} & Equity: 1 \\
-\cline{2-2}
- & Debt: 99 \\
-\hline
-\textbf{100} & \textbf{100} \\
-\hline
-\end{tabular}
+Total asset turnover measures sales generated per unit of assets during a period:
+\begin{align*}
+\text{Total asset turnover}&=\frac{\text{Net sales}}{\text{Average total assets}},\\
+\text{Average total assets}&=\frac{\text{Opening assets}+\text{Closing assets}}{2}.
+\end{align*}
+A high turnover can reflect effective use of assets, but it does not show the profit margin earned on those sales. Because net sales cover a period and the balance sheet measures assets at points in time, the average of opening and closing assets is commonly used.
 
-\end{tabular}
-\end{table}
-The three companies present different economic situations. The one I would not invest in is the third,
-because it carries excessive risk and relies on third parties. The second is in excellent shape, as it has no debt,
-but this implies a lack of investment and, consequently, no growth. The first company—with a 60 equity and 40 debt structure—is the one I would choose;
-it entails moderate risk but has active investments. Therefore, while making a fully informed decision would require more information,
-based solely on these data, the first company is the most attractive option.
+\section{Earnings: EBIT and EBT}
+
+EBIT means \emph{earnings before interest and taxes}. It is an amount, not a ratio, and is commonly used to examine performance before financing cost and income tax. EBT means \emph{earnings before taxes}: it reflects interest expense and other relevant items before income tax. In a simplified income statement, EBIT minus net interest expense gives EBT, and EBT minus income tax gives net income. Actual statements can contain other non-operating items, so this sequence needs to be checked against the statement being analysed.
+
+\section{Returns: ROI, ROA and ROE}
+
+For a particular project, one simple definition of return on investment is
+\begin{equation*}
+\text{ROI}=\frac{\text{Net gain from the investment}}{\text{Cost of the investment}}\times100\%.
+\end{equation*}
+Net gain means proceeds or benefits minus the investment cost and any other costs included in the chosen definition. If proceeds are 120 and the investment costs 100, net gain is 20 and ROI is 20\%. Managerial accounting may instead use ``ROI'' for a segment's operating income divided by its average invested assets. Its numerator, denominator and period must therefore be specified. A simple ROI also ignores when cash flows occur.
+
+Using net income as the measure of profit, return on assets and return on equity can be written as
+\begin{align*}
+\text{ROA}&=\frac{\text{Net income}}{\text{Average total assets}}\times100\%,\\
+\text{ROE}&=\frac{\text{Net income}}{\text{Average equity}}\times100\%.
+\end{align*}
+The averages ordinarily use opening and closing balances. ROA measures net income relative to the assets employed; ROE measures net income relative to owners' equity. Some courses use an operating-profit version of ROA: the two versions should not be mixed in a comparison. Debt can amplify ROE and also amplify losses, so a high ROE alone does not establish that a business is stronger. ROE becomes hard to interpret when equity is very small or negative.
+
+\section{Interpreting comparisons}
+
+EBIT and EBT are absolute earnings amounts, while ROI, ROA and ROE are ratios. Ratios can help compare businesses of different sizes, and EBIT can also be compared across businesses when its definition and the underlying accounting are aligned. All these measures can be examined over time. Useful comparisons require compatible definitions, the same period and, generally, businesses in similar industries. No metric is automatically more useful than the others in every situation.
 
 \end{document}
