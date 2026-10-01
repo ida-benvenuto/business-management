@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1790602086.82255 "/Users/idabenvenuto/Desktop/spagna/business management/notes.tex" "notes.pdf" "notes" 1790602087.56543 0
-  "/Users/idabenvenuto/Desktop/spagna/business management/notes.tex" 1790602085.77266 44848 3cc624a7ee51abdf8347211d2f0ba9da ""
+["pdflatex"] 1790769215.22897 "/Users/idabenvenuto/Desktop/spagna/business management/notes.tex" "notes.pdf" "notes" 1790769216.20772 0
+  "/Users/idabenvenuto/Desktop/spagna/business management/notes.tex" 1790769215.00452 53369 b13f41561d808bf661c711c40a44fb07 ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/tfm/jknappen/ec/ecbx1200.tfm" 1136768653 3584 402da0b29eafbad07963b1224b222f18 ""
@@ -188,10 +188,12 @@
   "imm/STATO-PATRIMONIALE-1-1.jpg" 1789981116.57768 102698 c819106fb3e5f06ceef334dd755521b0 ""
   "imm/Screenshot 2026-09-10 alle 18.50.03.png" 1789059010.18468 654892 29886fcf012c79026918094fbc69d659 ""
   "imm/Screenshot 2026-09-14 alle 10.56.31.png" 1789376195.51978 1023775 72f9869009c48bfca6310063cd8234a9 ""
-  "notes.aux" 1790602087.4774 7831 c428d4edac13c1219359c8e65a2a6ccb "pdflatex"
-  "notes.out" 1790602087.4784 7659 6644570418bde9a13d74615282db2ddd "pdflatex"
-  "notes.tex" 1790602085.77266 44848 3cc624a7ee51abdf8347211d2f0ba9da ""
-  "notes.toc" 1790602087.47862 4247 3757460e0d421e0528c1889ea703136c "pdflatex"
+  "imm/Screenshot 2026-09-30 alle 13.29.41.png" 1790767793.35825 359094 cdb81a29e8f56b4a37b20cf386020a1e ""
+  "imm/Screenshot 2026-09-30 alle 13.34.26.png" 1790768068.69597 377960 71dc32e3d037e48d49c86495d2c812cc ""
+  "notes.aux" 1790769216.11404 9011 32e739533d10b6b86761dc2082d180ce "pdflatex"
+  "notes.out" 1790769216.11519 9003 aaeeca86d87bb368406cd58788b98d18 "pdflatex"
+  "notes.tex" 1790769215.00452 53369 b13f41561d808bf661c711c40a44fb07 ""
+  "notes.toc" 1790769216.11542 4982 33414eb17b88fd2ca2d1fa722505754e "pdflatex"
   (generated)
   "notes.aux"
   "notes.log"
