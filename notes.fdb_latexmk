@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1793790758.31245 "/Users/idabenvenuto/Desktop/spagna/business management/notes.tex" "notes.pdf" "notes" 1793790759.63632 0
-  "/Users/idabenvenuto/Desktop/spagna/business management/notes.tex" 1793790758.09462 110614 7760c0e4e336bd89660a3cf528feb4c2 ""
+["pdflatex"] 1794163667.35361 "/Users/idabenvenuto/Desktop/spagna/business management/notes.tex" "notes.pdf" "notes" 1794163668.52279 0
+  "/Users/idabenvenuto/Desktop/spagna/business management/notes.tex" 1794163665.76744 121141 ed65ae5fcd6612772ad7f464a1202e60 ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/tfm/jknappen/ec/ecbx1200.tfm" 1136768653 3584 402da0b29eafbad07963b1224b222f18 ""
@@ -176,6 +176,8 @@
   "/usr/local/texlive/2025basic/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657483315 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "/usr/local/texlive/2025basic/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty" 1757447648 107259 3c38511e5ceddbe87267f1b979466a7a ""
   "/usr/local/texlive/2025basic/texmf-dist/tex/latex/tools/array.sty" 1730496337 14552 27664839421e418b87f56fa4c6f66b1a ""
+  "/usr/local/texlive/2025basic/texmf-dist/tex/latex/tools/calc.sty" 1717359999 10214 61188260d324e94bc2f66825d7d3fdf4 ""
+  "/usr/local/texlive/2025basic/texmf-dist/tex/latex/tools/longtable.sty" 1730496337 15900 3cb191e576c7a313634d2813c55d4bf1 ""
   "/usr/local/texlive/2025basic/texmf-dist/tex/latex/tools/tabularx.sty" 1717359999 7243 e5dac1240636811edb77568b81818372 ""
   "/usr/local/texlive/2025basic/texmf-dist/tex/latex/tools/verbatim.sty" 1717359999 7532 d2e1111e17bfebb1607d8ffa779705ec ""
   "/usr/local/texlive/2025basic/texmf-dist/tex/latex/trimspaces/trimspaces.sty" 1253232110 1380 971a51b00a14503ddf754cab24c3f209 ""
@@ -193,10 +195,10 @@
   "imm/Screenshot 2026-09-30 alle 13.34.26.png" 1790768068.69597 377960 71dc32e3d037e48d49c86495d2c812cc ""
   "imm/Screenshot 2026-10-14 alle 11.29.03.png" 1791970145.97879 267102 0fe76df9f1f1a75ec1a0aa8e59f971b9 ""
   "imm/Screenshot 2026-10-14 alle 11.58.30.png" 1791971912.6528 245080 9e069792293823ed0d5cfc1a981d62ea ""
-  "notes.aux" 1793790759.47708 15637 5c3f039fb729447aa409b7110e9388b7 "pdflatex"
-  "notes.out" 1793790759.47873 16283 4cbe36abbd2ff092bf6347554e2295a7 "pdflatex"
-  "notes.tex" 1793790758.09462 110614 7760c0e4e336bd89660a3cf528feb4c2 ""
-  "notes.toc" 1793790759.479 8946 d69f073bb814c5ac1c3cc4620130d816 "pdflatex"
+  "notes.aux" 1794163668.4253 25380 19c7d3f1030e639bdaf95b626fb4df9a "pdflatex"
+  "notes.out" 1794163668.4273 23884 780fe1ec0d711e56cc56a0a3cf1b693e "pdflatex"
+  "notes.tex" 1794163665.76744 121141 ed65ae5fcd6612772ad7f464a1202e60 ""
+  "notes.toc" 1794163668.42754 12291 07037d4a7da7e198c5948c0290a3d141 "pdflatex"
   (generated)
   "notes.aux"
   "notes.log"

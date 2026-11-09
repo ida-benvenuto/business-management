@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.11.15)  4 NOV 2026 12:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.11.15)  8 NOV 2026 19:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -535,78 +535,108 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisruleclass=\count329
 \@lastruleclass=\count330
 \@thisrulewidth=\dimen293
+) (/usr/local/texlive/2025basic/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2024-10-27 v4.22 Multi-page Table package (DPC)
+\LTleft=\skip63
+\LTright=\skip64
+\LTpre=\skip65
+\LTpost=\skip66
+\LTchunksize=\count331
+\LTcapwidth=\dimen294
+\LT@head=\box79
+\LT@firsthead=\box80
+\LT@foot=\box81
+\LT@lastfoot=\box82
+\LT@gbox=\box83
+\LT@cols=\count332
+\LT@rows=\count333
+\c@LT@tables=\count334
+\c@LT@chunks=\count335
+\LT@p@ftn=\toks51
+) (/usr/local/texlive/2025basic/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count336
+\calc@Bcount=\count337
+\calc@Adimen=\dimen295
+\calc@Bdimen=\dimen296
+\calc@Askip=\skip67
+\calc@Bskip=\skip68
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count338
+\calc@Cskip=\skip69
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 15.
- (/usr/local/texlive/2025basic/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package hyperref Info: Option `colorlinks' set `true' on input line 17.
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
-\f@nch@headwidth=\skip63
-\f@nch@offset@elh=\skip64
-\f@nch@offset@erh=\skip65
-\f@nch@offset@olh=\skip66
-\f@nch@offset@orh=\skip67
-\f@nch@offset@elf=\skip68
-\f@nch@offset@erf=\skip69
-\f@nch@offset@olf=\skip70
-\f@nch@offset@orf=\skip71
-\f@nch@height=\skip72
-\f@nch@footalignment=\skip73
-\f@nch@widthL=\skip74
-\f@nch@widthC=\skip75
-\f@nch@widthR=\skip76
-\@temptokenb=\toks51
+\f@nch@headwidth=\skip70
+\f@nch@offset@elh=\skip71
+\f@nch@offset@erh=\skip72
+\f@nch@offset@olh=\skip73
+\f@nch@offset@orh=\skip74
+\f@nch@offset@elf=\skip75
+\f@nch@offset@erf=\skip76
+\f@nch@offset@olf=\skip77
+\f@nch@offset@orf=\skip78
+\f@nch@height=\skip79
+\f@nch@footalignment=\skip80
+\f@nch@widthL=\skip81
+\f@nch@widthC=\skip82
+\f@nch@widthR=\skip83
+\@temptokenb=\toks52
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 63.
-\c@definition=\count331
-\c@claim=\count332
-\c@proposition=\count333
-\c@theorem=\count334
-\c@observation=\count335
+Package hyperref Info: Option `colorlinks' set `true' on input line 66.
+\c@definition=\count339
+\c@claim=\count340
+\c@proposition=\count341
+\c@theorem=\count342
+\c@observation=\count343
  (/usr/local/texlive/2025basic/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count336
-\l__pdf_internal_box=\box79
+\l__color_backend_stack_int=\count344
+\l__pdf_internal_box=\box84
 ) (./notes.aux)
 \openout1 = `notes.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-
-(/usr/local/texlive/2025basic/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+ (/usr/local/texlive/2025basic/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count337
-\scratchdimen=\dimen294
-\scratchbox=\box80
-\nofMPsegments=\count338
-\nofMParguments=\count339
-\everyMPshowfont=\toks52
-\MPscratchCnt=\count340
-\MPscratchDim=\dimen295
-\MPnumerator=\count341
-\makeMPintoPDFobject=\count342
-\everyMPtoPDFconversion=\toks53
+\scratchcounter=\count345
+\scratchdimen=\dimen297
+\scratchbox=\box85
+\nofMPsegments=\count346
+\nofMParguments=\count347
+\everyMPshowfont=\toks53
+\MPscratchCnt=\count348
+\MPscratchDim=\dimen298
+\MPnumerator=\count349
+\makeMPintoPDFobject=\count350
+\everyMPtoPDFconversion=\toks54
 ) (/usr/local/texlive/2025basic/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (/usr/local/texlive/2025basic/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring ON on input line 70.
+Package hyperref Info: Link coloring ON on input line 73.
  (./notes.out) (./notes.out)
 \@outlinefile=\write4
 \openout4 = `notes.out'.
@@ -647,11 +677,11 @@ Couldn't patch \deferred@thm@head!
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 76.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 79.
 (/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 76.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 79.
  (/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
@@ -664,67 +694,67 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.40 ...erline {5.2}money values}{19}{section.5.2}
+l.40 ...erline {5.2}money values}{20}{section.5.2}
                                                   % [1
 
 ]
 
-[2])
+[2]
+
+[3])
 \tf@toc=\write5
 \openout5 = `notes.toc'.
 
 
 
-[3]
+[4]
 Chapter 1.
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 87.
+(hyperref)                than one, level fixed on input line 90.
 
 
 
-[4
+[5
 
 {/usr/local/texlive/2025basic/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 
-[5]
+[6]
 Chapter 2.
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 152.
+(hyperref)                than one, level fixed on input line 155.
 
 
 
-[6
+[7
 
 ]
 
-[7]
+[8]
 Chapter 3.
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 185.
+(hyperref)                than one, level fixed on input line 188.
 
-
-
-[8
-
-]
-<imm/Screenshot 2026-09-10 alle 18.50.03.png, id=572, 734.745pt x 452.69125pt>
-File: imm/Screenshot 2026-09-10 alle 18.50.03.png Graphic file (type png)
-<use imm/Screenshot 2026-09-10 alle 18.50.03.png>
-Package pdftex.def Info: imm/Screenshot 2026-09-10 alle 18.50.03.png  used on input line 217.
-(pdftex.def)             Requested size: 364.19667pt x 224.39024pt.
 
 
 [9
+
+]
+<imm/Screenshot 2026-09-10 alle 18.50.03.png, id=737, 734.745pt x 452.69125pt>
+File: imm/Screenshot 2026-09-10 alle 18.50.03.png Graphic file (type png)
+<use imm/Screenshot 2026-09-10 alle 18.50.03.png>
+Package pdftex.def Info: imm/Screenshot 2026-09-10 alle 18.50.03.png  used on input line 220.
+(pdftex.def)             Requested size: 364.19667pt x 224.39024pt.
+
+
+[10
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.231 A
+l.234 A
         company can have \textbf{several value propositions} because differe... <./imm/Screenshot 2026-09-10 alle 18.50.03.png>]
-
-[10]
 
 [11]
 
@@ -733,401 +763,405 @@ l.231 A
 [13]
 
 [14]
-<imm/Google-Business-Model-Canvas.jpeg, id=605, 1927.2pt x 1084.05pt>
+
+[15]
+<imm/Google-Business-Model-Canvas.jpeg, id=770, 1927.2pt x 1084.05pt>
 File: imm/Google-Business-Model-Canvas.jpeg Graphic file (type jpg)
 <use imm/Google-Business-Model-Canvas.jpeg>
-Package pdftex.def Info: imm/Google-Business-Model-Canvas.jpeg  used on input line 493.
+Package pdftex.def Info: imm/Google-Business-Model-Canvas.jpeg  used on input line 496.
 (pdftex.def)             Requested size: 455.24411pt x 256.07509pt.
 
 
-[15
+[16
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.502     \chapter
+l.505     \chapter
                   {} <./imm/Google-Business-Model-Canvas.jpeg>]
 Chapter 4.
 
-Underfull \hbox (badness 10000) in paragraph at lines 509--520
+Underfull \hbox (badness 10000) in paragraph at lines 512--523
 
  []
 
 
-Underfull \hbox (badness 7256) in paragraph at lines 509--520
+Underfull \hbox (badness 7256) in paragraph at lines 512--523
 \T1/cmr/m/n/12 resources of a busi-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 509--520
+Underfull \hbox (badness 10000) in paragraph at lines 512--523
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 509--520
+Underfull \hbox (badness 10000) in paragraph at lines 512--523
 \T1/cmr/m/n/12 stakeholders of a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 509--520
+Underfull \hbox (badness 10000) in paragraph at lines 512--523
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 509--520
+Underfull \hbox (badness 10000) in paragraph at lines 512--523
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 534--540
+Underfull \hbox (badness 10000) in paragraph at lines 537--543
 
  []
 
 
 
-[16
+[17
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 560--567
+Underfull \hbox (badness 10000) in paragraph at lines 563--570
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 560--567
+Underfull \hbox (badness 10000) in paragraph at lines 563--570
 \T1/cmr/m/n/12 different types of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 560--567
+Underfull \hbox (badness 10000) in paragraph at lines 563--570
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 560--567
+Underfull \hbox (badness 10000) in paragraph at lines 563--570
 
  []
 
-<imm/Screenshot 2026-09-14 alle 10.56.31.png, id=617, 489.83pt x 337.26pt>
+<imm/Screenshot 2026-09-14 alle 10.56.31.png, id=782, 489.83pt x 337.26pt>
 File: imm/Screenshot 2026-09-14 alle 10.56.31.png Graphic file (type png)
 <use imm/Screenshot 2026-09-14 alle 10.56.31.png>
-Package pdftex.def Info: imm/Screenshot 2026-09-14 alle 10.56.31.png  used on input line 574.
+Package pdftex.def Info: imm/Screenshot 2026-09-14 alle 10.56.31.png  used on input line 577.
 (pdftex.def)             Requested size: 251.29659pt x 173.01926pt.
 
 
-[17
+[18
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.600 \newpage
+l.603 \newpage
                <./imm/Screenshot 2026-09-14 alle 10.56.31.png>]
-Underfull \hbox (badness 7888) in paragraph at lines 609--616
+Underfull \hbox (badness 7888) in paragraph at lines 612--619
 \T1/cmr/m/n/12 risk and prof-itabil-ity
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 609--616
+Underfull \hbox (badness 10000) in paragraph at lines 612--619
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 609--616
+Underfull \hbox (badness 10000) in paragraph at lines 612--619
 
  []
 
 
 
-[18]
+[19]
 Chapter 5.
 
-Underfull \hbox (badness 10000) in paragraph at lines 649--656
+Underfull \hbox (badness 10000) in paragraph at lines 652--659
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 649--656
+Underfull \hbox (badness 10000) in paragraph at lines 652--659
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 649--656
+Underfull \hbox (badness 10000) in paragraph at lines 652--659
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 649--656
+Underfull \hbox (badness 10000) in paragraph at lines 652--659
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 649--656
+Underfull \hbox (badness 10000) in paragraph at lines 652--659
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 649--656
+Underfull \hbox (badness 10000) in paragraph at lines 652--659
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 649--656
+Underfull \hbox (badness 10000) in paragraph at lines 652--659
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 649--656
+Underfull \hbox (badness 10000) in paragraph at lines 652--659
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 649--656
+Underfull \hbox (badness 10000) in paragraph at lines 652--659
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 649--656
+Underfull \hbox (badness 10000) in paragraph at lines 652--659
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 649--656
+Underfull \hbox (badness 10000) in paragraph at lines 652--659
 
  []
 
 
 
-[19
+[20
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 699--707
+Underfull \hbox (badness 10000) in paragraph at lines 702--710
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 699--707
+Underfull \hbox (badness 10000) in paragraph at lines 702--710
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 699--707
+Underfull \hbox (badness 10000) in paragraph at lines 702--710
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 699--707
+Underfull \hbox (badness 10000) in paragraph at lines 702--710
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 699--707
+Underfull \hbox (badness 10000) in paragraph at lines 702--710
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 699--707
+Underfull \hbox (badness 10000) in paragraph at lines 702--710
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 699--707
+Underfull \hbox (badness 10000) in paragraph at lines 702--710
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 699--707
+Underfull \hbox (badness 10000) in paragraph at lines 702--710
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 699--707
+Underfull \hbox (badness 10000) in paragraph at lines 702--710
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 699--707
+Underfull \hbox (badness 10000) in paragraph at lines 702--710
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 699--707
+Underfull \hbox (badness 10000) in paragraph at lines 702--710
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 699--707
+Underfull \hbox (badness 10000) in paragraph at lines 702--710
 \T1/cmr/m/n/12 difference be-tween
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 699--707
+Underfull \hbox (badness 10000) in paragraph at lines 702--710
 \T1/cmr/m/n/12 book-keep-ing and ac-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 699--707
+Underfull \hbox (badness 10000) in paragraph at lines 702--710
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 699--707
+Underfull \hbox (badness 10000) in paragraph at lines 702--710
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 699--707
+Underfull \hbox (badness 10000) in paragraph at lines 702--710
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 699--707
+Underfull \hbox (badness 10000) in paragraph at lines 702--710
 
  []
 
 
 
-[20]
-<imm/STATO-PATRIMONIALE-1-1.jpg, id=643, 1014.79124pt x 745.78625pt>
+[21]
+<imm/STATO-PATRIMONIALE-1-1.jpg, id=808, 1014.79124pt x 745.78625pt>
 File: imm/STATO-PATRIMONIALE-1-1.jpg Graphic file (type jpg)
 <use imm/STATO-PATRIMONIALE-1-1.jpg>
-Package pdftex.def Info: imm/STATO-PATRIMONIALE-1-1.jpg  used on input line 739.
+Package pdftex.def Info: imm/STATO-PATRIMONIALE-1-1.jpg  used on input line 742.
 (pdftex.def)             Requested size: 364.19667pt x 267.65213pt.
 
 
-[21
+[22
 pdfTeX warning (ext4): destination with the same identifier (name{figure.5.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.743  \chapter
+l.746  \chapter
                {21/09/2026} <./imm/STATO-PATRIMONIALE-1-1.jpg>]
 Chapter 6.
 
 
-[22
+[23
 
 ]
-
-[23]
 
 [24]
 
 [25]
+
+[26]
 Chapter 7.
 
 
-[26
+[27
 
 ]
 
-[27]
-<imm/Screenshot 2026-09-30 alle 13.29.41.png, id=674, 701.62125pt x 529.98pt>
+[28]
+<imm/Screenshot 2026-09-30 alle 13.29.41.png, id=839, 701.62125pt x 529.98pt>
 File: imm/Screenshot 2026-09-30 alle 13.29.41.png Graphic file (type png)
 <use imm/Screenshot 2026-09-30 alle 13.29.41.png>
-Package pdftex.def Info: imm/Screenshot 2026-09-30 alle 13.29.41.png  used on input line 883.
+Package pdftex.def Info: imm/Screenshot 2026-09-30 alle 13.29.41.png  used on input line 886.
 (pdftex.def)             Requested size: 364.19667pt x 275.10596pt.
 
 
-[28 <./imm/Screenshot 2026-09-30 alle 13.29.41.png>]
-<imm/Screenshot 2026-09-30 alle 13.34.26.png, id=680, 508.90125pt x 459.7175pt>
+[29 <./imm/Screenshot 2026-09-30 alle 13.29.41.png>]
+<imm/Screenshot 2026-09-30 alle 13.34.26.png, id=845, 508.90125pt x 459.7175pt>
 File: imm/Screenshot 2026-09-30 alle 13.34.26.png Graphic file (type png)
 <use imm/Screenshot 2026-09-30 alle 13.34.26.png>
-Package pdftex.def Info: imm/Screenshot 2026-09-30 alle 13.34.26.png  used on input line 890.
+Package pdftex.def Info: imm/Screenshot 2026-09-30 alle 13.34.26.png  used on input line 893.
 (pdftex.def)             Requested size: 364.19667pt x 329.01117pt.
 
 
-[29 <./imm/Screenshot 2026-09-30 alle 13.34.26.png>]
+[30 <./imm/Screenshot 2026-09-30 alle 13.34.26.png>]
 Chapter 8.
 
 
-[30
+[31
 
 ]
-Overfull \hbox (5.76549pt too wide) in paragraph at lines 933--934
+Overfull \hbox (5.76549pt too wide) in paragraph at lines 936--937
 []\T1/cmr/m/n/12 footwear com-pany: 1st cri-te-ria sep-a-rates performance-oriented from nonathletic-oriented
  []
 
 
 
-[31]
-
 [32]
+
+[33]
 Chapter 9.
-<imm/Screenshot 2026-10-14 alle 11.29.03.png, id=703, 680.5425pt x 424.58624pt>
+<imm/Screenshot 2026-10-14 alle 11.29.03.png, id=868, 680.5425pt x 424.58624pt>
 File: imm/Screenshot 2026-10-14 alle 11.29.03.png Graphic file (type png)
 <use imm/Screenshot 2026-10-14 alle 11.29.03.png>
-Package pdftex.def Info: imm/Screenshot 2026-10-14 alle 11.29.03.png  used on input line 979.
+Package pdftex.def Info: imm/Screenshot 2026-10-14 alle 11.29.03.png  used on input line 982.
 (pdftex.def)             Requested size: 318.66948pt x 198.81699pt.
 
 
-[33
+[34
 
  <./imm/Screenshot 2026-10-14 alle 11.29.03.png>]
-<imm/Screenshot 2026-10-14 alle 11.58.30.png, id=709, 448.67625pt x 306.14375pt>
+<imm/Screenshot 2026-10-14 alle 11.58.30.png, id=874, 448.67625pt x 306.14375pt>
 File: imm/Screenshot 2026-10-14 alle 11.58.30.png Graphic file (type png)
 <use imm/Screenshot 2026-10-14 alle 11.58.30.png>
-Package pdftex.def Info: imm/Screenshot 2026-10-14 alle 11.58.30.png  used on input line 987.
+Package pdftex.def Info: imm/Screenshot 2026-10-14 alle 11.58.30.png  used on input line 990.
 (pdftex.def)             Requested size: 318.66948pt x 217.44298pt.
 
 
-[34 <./imm/Screenshot 2026-10-14 alle 11.58.30.png>]
-
-[35]
+[35 <./imm/Screenshot 2026-10-14 alle 11.58.30.png>]
 
 [36]
+
+[37]
 Chapter 10.
 
 
-[37
+[38
 
 ]
 
-[38]
-
 [39]
+
+[40]
 Chapter 11.
 
 
-[40
+[41
 
 ]
-Underfull \hbox (badness 1383) in paragraph at lines 1128--1129
+Underfull \hbox (badness 1383) in paragraph at lines 1131--1132
 []|\T1/cmr/m/n/12 Lucrative com-pen-sa-tion pack-ages and ben-e-fits
  []
 
 
 
-[41
+[42
 pdfTeX warning (ext4): destination with the same identifier (name{table.11.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.1139     \item
+l.1142     \item
                  LBO (Leveraged Buyout): A financial transaction where a com...]
-Overfull \hbox (1.93658pt too wide) in paragraph at lines 1150--1151
+Overfull \hbox (1.93658pt too wide) in paragraph at lines 1153--1154
 \T1/cmr/m/n/12 and re-duced com-pe-ti-tion. dis-ad-van-tages in-clude po-ten-tial an-titrust is-sues, cul-tural clashes,
  []
 
 
 
-[42]
-
 [43]
 
 [44]
+
+[45]
 Chapter 12.
 
 
-[45
+[46
 
 ]
-
-[46]
 
 [47]
+Overfull \hbox (1.56778pt too wide) in paragraph at lines 1358--1359
+\T1/cmr/m/n/12 The \T1/cmr/bx/n/12 Gen-eral Data Pro-tec-tion Reg-u-la-tion (GDPR) \T1/cmr/m/n/12 is \T1/cmr/bx/n/12 Reg-u-la-tion (EU) 2016/679\T1/cmr/m/n/12 . 
+ []
 
 [48]
-Chapter 13.
+Overfull \hbox (0.36798pt too wide) in paragraph at lines 1424--1425
+[]\T1/cmr/bx/n/12 Legitimate in-ter-ests: \T1/cmr/m/n/12 a nec-es-sary, law-ful in-ter-est, bal-anced against peo-ple's rights. 
+ []
 
 
-[49
 
-]
+[49]
 
 [50]
 
@@ -1135,27 +1169,41 @@ Chapter 13.
 
 [52]
 
-[53] (./notes.aux)
+[53]
+Chapter 13.
+
+
+[54
+
+]
+
+[55]
+
+[56] [57]
+
+[58]
+
+[59] (./notes.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `notes.out' has not changed.
-(rerunfilecheck)             Checksum: 4CBE36ABBD2FF092BF6347554E2295A7;16283.
+(rerunfilecheck)             Checksum: 780FE1EC0D711E56CC56A0A3CF1B693E;23884.
  ) 
 Here is how much of TeX's memory you used:
- 24454 strings out of 474662
- 465436 string characters out of 5751108
- 836977 words of memory out of 5000000
- 46928 multiletter control sequences out of 15000+600000
+ 24818 strings out of 474662
+ 472092 string characters out of 5751108
+ 845347 words of memory out of 5000000
+ 47186 multiletter control sequences out of 15000+600000
  578105 words of font info for 84 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 98i,11n,101p,1418b,627s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 98i,11n,101p,834b,635s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on notes.pdf (54 pages, 3081378 bytes).
+Output written on notes.pdf (60 pages, 3100814 bytes).
 PDF statistics:
- 895 PDF objects out of 1000 (max. 8388607)
- 791 compressed objects within 8 object streams
- 174 named destinations out of 1000 (max. 500000)
- 877 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1168 PDF objects out of 1200 (max. 8388607)
+ 1055 compressed objects within 11 object streams
+ 275 named destinations out of 1000 (max. 500000)
+ 1133 words of extra memory for PDF output out of 10000 (max. 10000000)
 

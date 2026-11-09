@@ -1,107 +1,139 @@
-\contentsline {chapter}{\numberline {1}Lecture 1 -- 07/09/2026}{4}{chapter.1}%
-\contentsline {subsection}{\numberline {1.0.1}Law}{4}{subsection.1.0.1}%
-\contentsline {subsection}{\numberline {1.0.2}Stakeholders}{4}{subsection.1.0.2}%
-\contentsline {subsection}{\numberline {1.0.3}Financing the Company}{5}{subsection.1.0.3}%
-\contentsline {chapter}{\numberline {2}Business Model}{6}{chapter.2}%
-\contentsline {subsection}{\numberline {2.0.1}Emerging Technologies}{6}{subsection.2.0.1}%
-\contentsline {subsection}{\numberline {2.0.2}Examples of Business Models}{7}{subsection.2.0.2}%
-\contentsline {chapter}{\numberline {3}Lecture 2 -- 09/09/2026 Business Model Canvas}{8}{chapter.3}%
-\contentsline {subsection}{\numberline {3.0.1}Business Model vs. Business Plan}{8}{subsection.3.0.1}%
-\contentsline {section}{\numberline {3.1}Business Model Examples}{8}{section.3.1}%
-\contentsline {section}{\numberline {3.2}What is a Business Model?}{9}{section.3.2}%
-\contentsline {section}{\numberline {3.3}1. Value Proposition}{9}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Types of Value Propositions}{10}{subsection.3.3.1}%
-\contentsline {section}{\numberline {3.4}2. Customer Segments (For Whom?)}{10}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}Example: Ferrari}{11}{subsection.3.4.1}%
-\contentsline {section}{\numberline {3.5}3. Channels( How Do We Get It to Them?)}{11}{section.3.5}%
-\contentsline {subsection}{\numberline {3.5.1}Direct Channels}{11}{subsection.3.5.1}%
-\contentsline {subsection}{\numberline {3.5.2}Indirect Channels}{12}{subsection.3.5.2}%
-\contentsline {subsection}{\numberline {3.5.3}Owned and Partner Channels}{12}{subsection.3.5.3}%
-\contentsline {subsection}{\numberline {3.5.4}Retail Store Example}{12}{subsection.3.5.4}%
-\contentsline {section}{\numberline {3.6}4. Customer Relationships}{12}{section.3.6}%
-\contentsline {section}{\numberline {3.7}5. Revenue Streams}{13}{section.3.7}%
-\contentsline {section}{\numberline {3.8}6. Key Resources}{13}{section.3.8}%
-\contentsline {subsection}{\numberline {3.8.1}Example: Electric Car Company}{13}{subsection.3.8.1}%
-\contentsline {section}{\numberline {3.9}7. Key Activities}{13}{section.3.9}%
-\contentsline {section}{\numberline {3.10}8. Key Partnerships}{14}{section.3.10}%
-\contentsline {subsection}{\numberline {3.10.1}Four Types of Partnerships}{14}{subsection.3.10.1}%
-\contentsline {subsubsection}{1. Strategic Alliances Between Non-Competitors}{14}{section*.2}%
-\contentsline {subsubsection}{2. Coopetition: Strategic Partnerships Between Competitors}{14}{section*.3}%
-\contentsline {subsubsection}{3. Joint Ventures}{15}{section*.4}%
-\contentsline {subsubsection}{4. Buyer-Supplier Relationships / Bottleneck Partnerships}{15}{section*.5}%
-\contentsline {section}{\numberline {3.11}9. Cost Structure}{15}{section.3.11}%
-\contentsline {chapter}{\numberline {4}}{16}{chapter.4}%
-\contentsline {section}{\numberline {4.1}flow of money}{17}{section.4.1}%
-\contentsline {section}{\numberline {4.2}timeline}{18}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Legal forms}{18}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Country and rules}{18}{section.4.4}%
-\contentsline {chapter}{\numberline {5}}{19}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Three useful financial statements}{19}{section.5.1}%
-\contentsline {section}{\numberline {5.2}money values}{19}{section.5.2}%
-\contentsline {chapter}{\numberline {6}21/09/2026}{22}{chapter.6}%
-\contentsline {section}{\numberline {6.1}depreciation}{22}{section.6.1}%
-\contentsline {section}{\numberline {6.2}the two clock of accounting}{23}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Purpose and main areas}{23}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Liquidity: working capital and ratios}{23}{section.6.4}%
-\contentsline {section}{\numberline {6.5}Solvency and indebtedness}{24}{section.6.5}%
-\contentsline {section}{\numberline {6.6}Operating efficiency: asset turnover}{24}{section.6.6}%
-\contentsline {section}{\numberline {6.7}Earnings: EBIT and EBT}{25}{section.6.7}%
-\contentsline {section}{\numberline {6.8}Returns: ROI, ROA and ROE}{25}{section.6.8}%
-\contentsline {section}{\numberline {6.9}Interpreting comparisons}{25}{section.6.9}%
-\contentsline {chapter}{\numberline {7}marketing 30/09/2026}{26}{chapter.7}%
-\contentsline {section}{\numberline {7.1}tangible product and pure service}{26}{section.7.1}%
-\contentsline {section}{\numberline {7.2}satisfaction and loyalty}{27}{section.7.2}%
-\contentsline {section}{\numberline {7.3}market }{27}{section.7.3}%
-\contentsline {subsection}{\numberline {7.3.1}strategy}{27}{subsection.7.3.1}%
-\contentsline {subsection}{\numberline {7.3.2}business portfolio}{27}{subsection.7.3.2}%
-\contentsline {subsection}{\numberline {7.3.3}mission}{28}{subsection.7.3.3}%
-\contentsline {section}{\numberline {7.4}boston consulting group matrix}{28}{section.7.4}%
-\contentsline {section}{\numberline {7.5}ansoff matrix}{29}{section.7.5}%
-\contentsline {chapter}{\numberline {8}marketing 05/10/2026}{30}{chapter.8}%
-\contentsline {section}{\numberline {8.1}market and customer value}{30}{section.8.1}%
-\contentsline {section}{\numberline {8.2}mission statement}{30}{section.8.2}%
-\contentsline {subsection}{\numberline {8.2.1}examples of mission}{30}{subsection.8.2.1}%
-\contentsline {section}{\numberline {8.3}corporate planning and bcg matrix limitations}{31}{section.8.3}%
-\contentsline {section}{\numberline {8.4}segmentation}{31}{section.8.4}%
-\contentsline {subsection}{\numberline {8.4.1}segmentation examples}{31}{subsection.8.4.1}%
-\contentsline {section}{\numberline {8.5}targeting}{31}{section.8.5}%
-\contentsline {section}{\numberline {8.6}positioning}{32}{section.8.6}%
-\contentsline {subsection}{\numberline {8.6.1}perceptual map example}{32}{subsection.8.6.1}%
-\contentsline {section}{\numberline {8.7}7/10/2026}{32}{section.8.7}%
-\contentsline {chapter}{\numberline {9}14/10/2026}{33}{chapter.9}%
-\contentsline {section}{\numberline {9.1}break-even point}{33}{section.9.1}%
-\contentsline {subsection}{\numberline {9.1.1}direct and indirect cost}{34}{subsection.9.1.1}%
-\contentsline {section}{\numberline {9.2}SWOT, PEST, PESTEL}{34}{section.9.2}%
-\contentsline {subsection}{\numberline {9.2.1}swot}{34}{subsection.9.2.1}%
-\contentsline {subsection}{\numberline {9.2.2}pest}{35}{subsection.9.2.2}%
-\contentsline {subsection}{\numberline {9.2.3}pestel}{35}{subsection.9.2.3}%
-\contentsline {section}{\numberline {9.3}CAME, Red Ocean and Blue Ocean, Porter's Five Forces}{35}{section.9.3}%
-\contentsline {chapter}{\numberline {10}competition Law}{37}{chapter.10}%
-\contentsline {section}{\numberline {10.1}how is the relevant market determined}{38}{section.10.1}%
-\contentsline {subsection}{\numberline {10.1.1}product dimension}{38}{subsection.10.1.1}%
-\contentsline {subsection}{\numberline {10.1.2}geographic dimension}{38}{subsection.10.1.2}%
-\contentsline {chapter}{\numberline {11}Acquisitions and Mergers}{40}{chapter.11}%
-\contentsline {section}{\numberline {11.1}The Due Diligence Process}{40}{section.11.1}%
-\contentsline {section}{\numberline {11.2}Corporate Synergies}{41}{section.11.2}%
-\contentsline {section}{\numberline {11.3}Post-Merger Integration and Cultural Clash}{41}{section.11.3}%
-\contentsline {section}{\numberline {11.4}Takeover Defense Tactics}{41}{section.11.4}%
-\contentsline {section}{\numberline {11.5}Horizontal Integration}{42}{section.11.5}%
-\contentsline {section}{\numberline {11.6}Vertical Integration}{43}{section.11.6}%
-\contentsline {section}{\numberline {11.7}Conglomerate Merger}{43}{section.11.7}%
-\contentsline {section}{\numberline {11.8}Outsourcing vs Offshoring}{44}{section.11.8}%
-\contentsline {subsection}{\numberline {11.8.1}Outsourcing}{44}{subsection.11.8.1}%
-\contentsline {subsection}{\numberline {11.8.2}Offshoring}{44}{subsection.11.8.2}%
-\contentsline {chapter}{\numberline {12}2/11/2026}{45}{chapter.12}%
-\contentsline {section}{\numberline {12.1}law}{45}{section.12.1}%
-\contentsline {section}{\numberline {12.2}data protection}{45}{section.12.2}%
-\contentsline {section}{\numberline {12.3}1. The Cyberattack}{47}{section.12.3}%
-\contentsline {section}{\numberline {12.4}1. The Data Privacy Issue}{48}{section.12.4}%
-\contentsline {chapter}{\numberline {13}4/11/2026}{49}{chapter.13}%
-\contentsline {section}{\numberline {13.1}intellectual property protection}{49}{section.13.1}%
-\contentsline {section}{\numberline {13.2}IP RIGHT}{50}{section.13.2}%
-\contentsline {subsection}{\numberline {13.2.1}duration}{51}{subsection.13.2.1}%
-\contentsline {subsection}{\numberline {13.2.2}patent}{51}{subsection.13.2.2}%
-\contentsline {section}{\numberline {13.3}utility model}{52}{section.13.3}%
-\contentsline {section}{\numberline {13.4}industrial design}{52}{section.13.4}%
-\contentsline {section}{\numberline {13.5}brands or trademarks}{52}{section.13.5}%
-\contentsline {section}{\numberline {13.6}running shoes}{52}{section.13.6}%
+\contentsline {chapter}{\numberline {1}Lecture 1 -- 07/09/2026}{5}{chapter.1}%
+\contentsline {subsection}{\numberline {1.0.1}Law}{5}{subsection.1.0.1}%
+\contentsline {subsection}{\numberline {1.0.2}Stakeholders}{5}{subsection.1.0.2}%
+\contentsline {subsection}{\numberline {1.0.3}Financing the Company}{6}{subsection.1.0.3}%
+\contentsline {chapter}{\numberline {2}Business Model}{7}{chapter.2}%
+\contentsline {subsection}{\numberline {2.0.1}Emerging Technologies}{7}{subsection.2.0.1}%
+\contentsline {subsection}{\numberline {2.0.2}Examples of Business Models}{8}{subsection.2.0.2}%
+\contentsline {chapter}{\numberline {3}Lecture 2 -- 09/09/2026 Business Model Canvas}{9}{chapter.3}%
+\contentsline {subsection}{\numberline {3.0.1}Business Model vs. Business Plan}{9}{subsection.3.0.1}%
+\contentsline {section}{\numberline {3.1}Business Model Examples}{9}{section.3.1}%
+\contentsline {section}{\numberline {3.2}What is a Business Model?}{10}{section.3.2}%
+\contentsline {section}{\numberline {3.3}1. Value Proposition}{10}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Types of Value Propositions}{11}{subsection.3.3.1}%
+\contentsline {section}{\numberline {3.4}2. Customer Segments (For Whom?)}{11}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Example: Ferrari}{12}{subsection.3.4.1}%
+\contentsline {section}{\numberline {3.5}3. Channels( How Do We Get It to Them?)}{12}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Direct Channels}{12}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Indirect Channels}{13}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}Owned and Partner Channels}{13}{subsection.3.5.3}%
+\contentsline {subsection}{\numberline {3.5.4}Retail Store Example}{13}{subsection.3.5.4}%
+\contentsline {section}{\numberline {3.6}4. Customer Relationships}{13}{section.3.6}%
+\contentsline {section}{\numberline {3.7}5. Revenue Streams}{14}{section.3.7}%
+\contentsline {section}{\numberline {3.8}6. Key Resources}{14}{section.3.8}%
+\contentsline {subsection}{\numberline {3.8.1}Example: Electric Car Company}{14}{subsection.3.8.1}%
+\contentsline {section}{\numberline {3.9}7. Key Activities}{14}{section.3.9}%
+\contentsline {section}{\numberline {3.10}8. Key Partnerships}{15}{section.3.10}%
+\contentsline {subsection}{\numberline {3.10.1}Four Types of Partnerships}{15}{subsection.3.10.1}%
+\contentsline {subsubsection}{1. Strategic Alliances Between Non-Competitors}{15}{section*.2}%
+\contentsline {subsubsection}{2. Coopetition: Strategic Partnerships Between Competitors}{15}{section*.3}%
+\contentsline {subsubsection}{3. Joint Ventures}{16}{section*.4}%
+\contentsline {subsubsection}{4. Buyer-Supplier Relationships / Bottleneck Partnerships}{16}{section*.5}%
+\contentsline {section}{\numberline {3.11}9. Cost Structure}{16}{section.3.11}%
+\contentsline {chapter}{\numberline {4}}{17}{chapter.4}%
+\contentsline {section}{\numberline {4.1}flow of money}{18}{section.4.1}%
+\contentsline {section}{\numberline {4.2}timeline}{19}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Legal forms}{19}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Country and rules}{19}{section.4.4}%
+\contentsline {chapter}{\numberline {5}}{20}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Three useful financial statements}{20}{section.5.1}%
+\contentsline {section}{\numberline {5.2}money values}{20}{section.5.2}%
+\contentsline {chapter}{\numberline {6}21/09/2026}{23}{chapter.6}%
+\contentsline {section}{\numberline {6.1}depreciation}{23}{section.6.1}%
+\contentsline {section}{\numberline {6.2}the two clock of accounting}{24}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Purpose and main areas}{24}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Liquidity: working capital and ratios}{24}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Solvency and indebtedness}{25}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Operating efficiency: asset turnover}{25}{section.6.6}%
+\contentsline {section}{\numberline {6.7}Earnings: EBIT and EBT}{26}{section.6.7}%
+\contentsline {section}{\numberline {6.8}Returns: ROI, ROA and ROE}{26}{section.6.8}%
+\contentsline {section}{\numberline {6.9}Interpreting comparisons}{26}{section.6.9}%
+\contentsline {chapter}{\numberline {7}marketing 30/09/2026}{27}{chapter.7}%
+\contentsline {section}{\numberline {7.1}tangible product and pure service}{27}{section.7.1}%
+\contentsline {section}{\numberline {7.2}satisfaction and loyalty}{28}{section.7.2}%
+\contentsline {section}{\numberline {7.3}market }{28}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}strategy}{28}{subsection.7.3.1}%
+\contentsline {subsection}{\numberline {7.3.2}business portfolio}{28}{subsection.7.3.2}%
+\contentsline {subsection}{\numberline {7.3.3}mission}{29}{subsection.7.3.3}%
+\contentsline {section}{\numberline {7.4}boston consulting group matrix}{29}{section.7.4}%
+\contentsline {section}{\numberline {7.5}ansoff matrix}{30}{section.7.5}%
+\contentsline {chapter}{\numberline {8}marketing 05/10/2026}{31}{chapter.8}%
+\contentsline {section}{\numberline {8.1}market and customer value}{31}{section.8.1}%
+\contentsline {section}{\numberline {8.2}mission statement}{31}{section.8.2}%
+\contentsline {subsection}{\numberline {8.2.1}examples of mission}{31}{subsection.8.2.1}%
+\contentsline {section}{\numberline {8.3}corporate planning and bcg matrix limitations}{32}{section.8.3}%
+\contentsline {section}{\numberline {8.4}segmentation}{32}{section.8.4}%
+\contentsline {subsection}{\numberline {8.4.1}segmentation examples}{32}{subsection.8.4.1}%
+\contentsline {section}{\numberline {8.5}targeting}{32}{section.8.5}%
+\contentsline {section}{\numberline {8.6}positioning}{33}{section.8.6}%
+\contentsline {subsection}{\numberline {8.6.1}perceptual map example}{33}{subsection.8.6.1}%
+\contentsline {section}{\numberline {8.7}7/10/2026}{33}{section.8.7}%
+\contentsline {chapter}{\numberline {9}14/10/2026}{34}{chapter.9}%
+\contentsline {section}{\numberline {9.1}break-even point}{34}{section.9.1}%
+\contentsline {subsection}{\numberline {9.1.1}direct and indirect cost}{35}{subsection.9.1.1}%
+\contentsline {section}{\numberline {9.2}SWOT, PEST, PESTEL}{35}{section.9.2}%
+\contentsline {subsection}{\numberline {9.2.1}swot}{35}{subsection.9.2.1}%
+\contentsline {subsection}{\numberline {9.2.2}pest}{36}{subsection.9.2.2}%
+\contentsline {subsection}{\numberline {9.2.3}pestel}{36}{subsection.9.2.3}%
+\contentsline {section}{\numberline {9.3}CAME, Red Ocean and Blue Ocean, Porter's Five Forces}{36}{section.9.3}%
+\contentsline {chapter}{\numberline {10}competition Law}{38}{chapter.10}%
+\contentsline {section}{\numberline {10.1}how is the relevant market determined}{39}{section.10.1}%
+\contentsline {subsection}{\numberline {10.1.1}product dimension}{39}{subsection.10.1.1}%
+\contentsline {subsection}{\numberline {10.1.2}geographic dimension}{39}{subsection.10.1.2}%
+\contentsline {chapter}{\numberline {11}Acquisitions and Mergers}{41}{chapter.11}%
+\contentsline {section}{\numberline {11.1}The Due Diligence Process}{41}{section.11.1}%
+\contentsline {section}{\numberline {11.2}Corporate Synergies}{42}{section.11.2}%
+\contentsline {section}{\numberline {11.3}Post-Merger Integration and Cultural Clash}{42}{section.11.3}%
+\contentsline {section}{\numberline {11.4}Takeover Defense Tactics}{42}{section.11.4}%
+\contentsline {section}{\numberline {11.5}Horizontal Integration}{43}{section.11.5}%
+\contentsline {section}{\numberline {11.6}Vertical Integration}{44}{section.11.6}%
+\contentsline {section}{\numberline {11.7}Conglomerate Merger}{44}{section.11.7}%
+\contentsline {section}{\numberline {11.8}Outsourcing vs Offshoring}{45}{section.11.8}%
+\contentsline {subsection}{\numberline {11.8.1}Outsourcing}{45}{subsection.11.8.1}%
+\contentsline {subsection}{\numberline {11.8.2}Offshoring}{45}{subsection.11.8.2}%
+\contentsline {chapter}{\numberline {12}Law and Data Protection}{46}{chapter.12}%
+\contentsline {section}{\numberline {12.1}Law and the European Union}{46}{section.12.1}%
+\contentsline {subsection}{\numberline {12.1.1}What is law?}{46}{subsection.12.1.1}%
+\contentsline {subsection}{\numberline {12.1.2}EU law and national law}{46}{subsection.12.1.2}%
+\contentsline {subsection}{\numberline {12.1.3}Main types of EU legal acts}{46}{subsection.12.1.3}%
+\contentsline {subsection}{\numberline {12.1.4}Why EU law matters for business}{47}{subsection.12.1.4}%
+\contentsline {section}{\numberline {12.2}Data: Main Definitions}{47}{section.12.2}%
+\contentsline {subsection}{\numberline {12.2.1}Personal data and processing}{47}{subsection.12.2.1}%
+\contentsline {subsection}{\numberline {12.2.2}Special categories of personal data}{47}{subsection.12.2.2}%
+\contentsline {subsection}{\numberline {12.2.3}Non-personal, anonymous and pseudonymous data}{48}{subsection.12.2.3}%
+\contentsline {section}{\numberline {12.3}GDPR and Spanish Data Protection Law}{48}{section.12.3}%
+\contentsline {subsection}{\numberline {12.3.1}GDPR}{48}{subsection.12.3.1}%
+\contentsline {subsection}{\numberline {12.3.2}LOPDGDD}{48}{subsection.12.3.2}%
+\contentsline {section}{\numberline {12.4}GDPR Principles and Legal Bases}{48}{section.12.4}%
+\contentsline {subsection}{\numberline {12.4.1}Seven principles to remember}{48}{subsection.12.4.1}%
+\contentsline {subsection}{\numberline {12.4.2}Legal bases for processing}{49}{subsection.12.4.2}%
+\contentsline {subsection}{\numberline {12.4.3}Valid consent}{49}{subsection.12.4.3}%
+\contentsline {section}{\numberline {12.5}Rights of Individuals}{49}{section.12.5}%
+\contentsline {subsection}{\numberline {12.5.1}Three rights that are easy to confuse}{50}{subsection.12.5.1}%
+\contentsline {section}{\numberline {12.6}Company Responsibilities}{50}{section.12.6}%
+\contentsline {subsection}{\numberline {12.6.1}Controller and processor}{50}{subsection.12.6.1}%
+\contentsline {subsection}{\numberline {12.6.2}Main obligations}{51}{subsection.12.6.2}%
+\contentsline {subsection}{\numberline {12.6.3}Risk analysis and DPIA}{51}{subsection.12.6.3}%
+\contentsline {subsection}{\numberline {12.6.4}Data Protection Officer}{51}{subsection.12.6.4}%
+\contentsline {subsection}{\numberline {12.6.5}Personal data breaches}{52}{subsection.12.6.5}%
+\contentsline {subsection}{\numberline {12.6.6}Enforcement and penalties}{52}{subsection.12.6.6}%
+\contentsline {section}{\numberline {12.7}Business Cases}{52}{section.12.7}%
+\contentsline {subsection}{\numberline {12.7.1}Holaluz: Supplier Access and Security}{52}{subsection.12.7.1}%
+\contentsline {subsection}{\numberline {12.7.2}LaLiga: Biometric Access and the DPIA}{53}{subsection.12.7.2}%
+\contentsline {chapter}{\numberline {13} Intellectual Property and Cybersecurity}{54}{chapter.13}%
+\contentsline {section}{\numberline {13.1}Protecting Business Assets}{54}{section.13.1}%
+\contentsline {section}{\numberline {13.2}Intellectual Property and Protection Methods}{54}{section.13.2}%
+\contentsline {subsection}{\numberline {13.2.1}Definition and business purpose}{54}{subsection.13.2.1}%
+\contentsline {subsection}{\numberline {13.2.2}Registration, automatic protection and contracts}{54}{subsection.13.2.2}%
+\contentsline {subsection}{\numberline {13.2.3}Trade secrets}{55}{subsection.13.2.3}%
+\contentsline {section}{\numberline {13.3}Main Intellectual Property Rights}{55}{section.13.3}%
+\contentsline {subsection}{\numberline {13.3.1}Patents}{55}{subsection.13.3.1}%
+\contentsline {subsection}{\numberline {13.3.2}Patent exclusions and limits}{56}{subsection.13.3.2}%
+\contentsline {subsection}{\numberline {13.3.3}Patent licences}{56}{subsection.13.3.3}%
+\contentsline {subsection}{\numberline {13.3.4}Utility models}{56}{subsection.13.3.4}%
+\contentsline {subsection}{\numberline {13.3.5}Industrial designs}{56}{subsection.13.3.5}%
+\contentsline {subsection}{\numberline {13.3.6}Trademarks, brands and domain names}{57}{subsection.13.3.6}%
+\contentsline {subsection}{\numberline {13.3.7}Copyright: Economic and Moral Rights}{57}{subsection.13.3.7}%
+\contentsline {section}{\numberline {13.4}Open Source, Copyleft and Public Domain}{57}{section.13.4}%
+\contentsline {section}{\numberline {13.5}Integrated Example: A Running Shoe Company}{58}{section.13.5}%
+\contentsline {section}{\numberline {13.6}Cybersecurity and Its Link to Data Protection}{58}{section.13.6}%

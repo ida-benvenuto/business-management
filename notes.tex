@@ -12,6 +12,8 @@
 \usepackage{multirow}
 \usepackage[margin=17mm,top=17mm,bottom=16mm]{geometry}
 \usepackage{array,tabularx,booktabs}
+\usepackage{longtable}
+\usepackage{calc}
 \hypersetup{colorlinks=true,urlcolor=blue!50!black,linkcolor=blue!50!black}
 \usepackage{fancyhdr}
 \definecolor{ink}{HTML}{22334D}
@@ -27,6 +29,7 @@
 \setlength{\parskip}{5pt}
 \setlength{\tabcolsep}{4pt}
 \setlist[itemize]{leftmargin=1.2em,topsep=2pt,itemsep=2pt,parsep=0pt}
+\newcommand{\tightlist}{}
 
 \newcommand{\CornellStart}[2]{%
   \clearpage
@@ -1232,143 +1235,674 @@ Offshoring means moving business activities to \textbf{another country}.
     \item \textbf{Cons:} Communication problems, longer shipping times, and political risks.
     \item \textbf{Example:} An American bank moving its customer call center to India.
 \end{itemize}
-\chapter{2/11/2026}
-\section{law}
-is a set of rules that are created and enforced by a governing authority to regulate behavior within a society.
-European Union law is a body of rules and regulations that govern the member states of the European Union (EU). It is based on treaties, regulations, directives, and decisions made by EU institutions. EU law takes precedence over national law in areas where the EU has competence, and it aims to promote harmonization, cooperation, and integration among member states. The European Court of Justice (ECJ) is responsible for interpreting and enforcing EU law.
-\\
-the states can decide treaties, but they have to respect the EU law. The EU law is based on the principle of supremacy, which means that in case of conflict between EU law and national law, EU law prevails. This ensures uniformity and consistency in the application of laws across member states. Additionally, the EU has the power to enforce its laws through various mechanisms, including infringement proceedings against member states that fail to comply with EU law.
-in econimic terms, the EU law is designed to create a single market, promote competition, and facilitate the free movement of goods, services, capital, and people within the EU. It also addresses issues such as consumer protection, environmental standards, and social policies to ensure a high level of protection for citizens and businesses operating within the EU.
-the treaties are about only deligned topics.
-\\
-every contry in european Union can decide its own law:
+\chapter{Law and Data Protection}
+
+\hypertarget{law-and-the-european-union}{%
+\section{Law and the European Union}\label{law-and-the-european-union}}
+
+\hypertarget{what-is-law}{%
+\subsection{What is law?}\label{what-is-law}}
+
+\textbf{Law} is a system of rules that public authorities make and enforce to organise society and regulate behaviour.
+
+For businesses, law defines \textbf{rights, responsibilities and limits}. It affects contracts, customers, workers, competition, data and innovation.
+
+\hypertarget{eu-law-and-national-law}{%
+\subsection{EU law and national law}\label{eu-law-and-national-law}}
+
+\textbf{EU law} is the system of legal rules of the European Union. It includes treaties and legal acts adopted by EU institutions.
+
 \begin{itemize}
-    \item regulation: a binding legislative act that must be applied in its entirety across the EU. It has immediate legal force and does not require national legislation to take effect.
-    \item directive: a legislative act that sets out a goal that all EU countries must achieve
-\end{itemize}
-\section{data protection}
-\textbf{GDPR (General Data Protection Regulation)} is a regulation in EU law on data protection and privacy for all individuals within the European Union (EU) and the European Economic Area (EEA). It also addresses the transfer of personal data outside the EU and EEA areas. The GDPR aims to give control to individuals over their personal data and to simplify the regulatory environment for international business by unifying the regulation within the EU.
-\begin{itemize}
-    \item \textbf{Key Principles:} The GDPR is based on several key principles, including lawfulness, fairness, and transparency; purpose limitation; data minimization; accuracy; storage limitation; integrity and confidentiality; and accountability.
-    \item \textbf{Rights of Individuals:} The GDPR grants individuals several rights regarding their personal data, including the right to access, rectify, erase, restrict processing, data portability, and object to processing. It also includes the right to withdraw consent at any time and the right to lodge a complaint with a supervisory authority.
-    \item \textbf{Obligations for Organizations:} Organizations that process personal data must comply with the GDPR's requirements, including implementing appropriate technical and organizational measures to protect data, conducting data protection impact assessments, and appointing a Data Protection Officer (DPO) if necessary. They must also ensure that data processing agreements are in place with third-party processors and that data transfers outside the EU comply with GDPR standards.
-    \item \textbf{Enforcement and Penalties:} The GDPR is enforced by national data protection authorities in each EU member state. Non-compliance can result in significant fines, with penalties of up to €20 million or 4% of a company's global annual turnover, whichever is higher. The regulation also allows for corrective measures, such as warnings, reprimands, and orders to cease processing activities.
-\end{itemize}   
-\textbf{LOPDGDD} is a European Union regulation that establishes a framework for the protection of personal data and privacy in the context of electronic communications. It complements the GDPR by addressing specific issues related to the processing of personal data in the telecommunications sector, including the confidentiality of communications, the use of cookies and similar technologies, and the obligations of service providers regarding data security and user consent.
-\begin{itemize}
-    \item duty of confidentiality: Service providers must ensure the confidentiality of communications and protect personal data from unauthorized access, disclosure, or interception. This includes implementing appropriate technical and organizational measures to safeguard data.you do risk assessment and you have to implement the necessary measures to mitigate the risks.employee training and awareness programs are also essential to ensure that staff understand their responsibilities regarding data protection and confidentiality. incidente response plans should be in place to address any data breaches or security incidents promptly and effectively.
-    \item equivocal consent: Service providers must obtain clear and informed consent from users before processing their personal data. This means that users should be provided with transparent information about the purposes of data processing, the types of data collected, and their rights regarding their personal data. Consent must be freely given, specific, informed, and unambiguous. Users should also have the ability to withdraw their consent at any time, and service providers must provide an easy and accessible way for users to do so.
-    \item obligation to provide more information: Service providers must provide users with clear and comprehensive information about their data processing practices. This includes details about the types of personal data collected, the purposes for which the data is processed, the legal basis for processing, the recipients of the data, and the rights of users regarding their personal data. Service providers should also inform users about any data transfers to third parties or international destinations and ensure that appropriate safeguards are in place to protect personal data during such transfers.
-    \item risk analysis: Service providers must conduct regular risk assessments to identify potential threats and vulnerabilities to personal data and communications. This involves evaluating the likelihood and impact of various risks, such as data breaches, unauthorized access, or system failures. Based on the findings of the risk assessment, service providers must implement appropriate security measures and controls to mitigate identified risks and protect personal data. This may include encryption, access controls, regular security audits, and incident response planning.
-    \item secutity comunication incident: Service providers must have procedures in place to detect, respond to, and report security incidents that may compromise the confidentiality, integrity, or availability of personal data and communications. This includes establishing an incident response team, defining roles and responsibilities, and implementing protocols for reporting incidents to relevant authorities and affected individuals. Timely communication of security incidents is essential to minimize potential harm and ensure compliance with regulatory requirements.
-    \item data protection impact assessment: Service providers must conduct data protection impact assessments (DPIAs) when processing activities are likely to result in a high risk to the rights and freedoms of individuals. DPIAs involve systematically analyzing the potential impact of data processing on privacy and identifying measures to mitigate risks. This includes assessing the necessity and proportionality of processing, evaluating potential risks to individuals' rights, and implementing safeguards to protect personal data.
-    \item data processor contract: Service providers must establish clear contractual agreements with data processors that outline the responsibilities and obligations of each party regarding the processing of personal data. These contracts should include provisions related to data security, confidentiality, data breach notification, and compliance with applicable data protection laws. Service providers must ensure that data processors adhere to the same standards of data protection and privacy as required by the LOPDGDD and GDPR.
-    \item guarantee of rights: Service providers must ensure that individuals' rights regarding their personal data are respected and upheld. This includes providing mechanisms for individuals to exercise their rights, such as the right to access, rectify, erase, restrict processing, and object to processing. Service providers should also have procedures in place to respond to data subject requests in a timely and efficient manner, ensuring that individuals can effectively exercise their rights under the LOPDGDD and GDPR.
-    \item mandatory to have a data protection officer: Service providers must appoint a Data Protection Officer (DPO) if they engage in certain types of data processing activities, such as large-scale processing of sensitive data or regular and systematic monitoring of individuals. The DPO is responsible for overseeing data protection compliance, providing guidance on data protection matters, conducting audits, and serving as a point of contact for individuals and regulatory authorities regarding data protection issues.
+\tightlist
+\item
+  \textbf{Treaties} establish the EU's objectives, institutions and powers. They are agreed and ratified by Member States.
+\item
+  \textbf{Principle of conferral:} the EU can act only in areas where the treaties give it powers.
+\item
+  \textbf{Primacy of EU law:} when applicable EU law conflicts with national law, EU law takes priority.
+\item
+  Member States keep national laws, but these laws must respect their EU obligations. Their international agreements must also respect applicable EU obligations.
+\item
+  The \textbf{Court of Justice of the European Union (CJEU)} interprets EU law and helps ensure consistent application. National courts also apply EU law.
+\item
+  The \textbf{European Commission} can start infringement proceedings when a Member State does not meet its EU obligations.
 \end{itemize}
 
+\hypertarget{main-types-of-eu-legal-acts}{%
+\subsection{Main types of EU legal acts}\label{main-types-of-eu-legal-acts}}
 
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+Type
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Meaning
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+National action
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+\textbf{Regulation} & Binding in full and directly applicable in Member States. & Does not need transposition, although national supporting rules may be needed. \\
+\textbf{Directive} & Sets a result that Member States must achieve. & Countries normally transpose it into national law by a deadline. \\
+\textbf{Decision} & Binding in full; if it names specific recipients, it binds those recipients. & Depends on the decision and its recipients. \\
+\end{longtable}
 
-\section{1. The Cyberattack}
-In 2022, hackers entered the systems of an external provider working for the Spanish energy company \textbf{Holaluz}. 
+\textbf{Memory link:} regulation = directly applicable rule; directive = required result plus national implementation.
 
-The main security problem was poor password management: around 120 sales agents were sharing a single user account with too many access rights. The hackers used this weak account to access the company's database.
-\newline
-The attack exposed the personal and financial information of more than \textbf{31,000 customers}. The stolen data included:
+\hypertarget{why-eu-law-matters-for-business}{%
+\subsection{Why EU law matters for business}\label{why-eu-law-matters-for-business}}
+
+EU law supports the \textbf{single market} and the free movement of \textbf{goods, services, capital and people}. It also regulates competition, consumer protection, environmental protection and social matters.
+
+\textbf{Example:} an online shop selling in several EU countries benefits from common rules, but must still check relevant national requirements.
+
+\hypertarget{data-main-definitions}{%
+\section{Data: Main Definitions}\label{data-main-definitions}}
+
+\hypertarget{personal-data-and-processing}{%
+\subsection{Personal data and processing}\label{personal-data-and-processing}}
+
+\textbf{Personal data} is information about an identified or identifiable living person.
+
+Examples include names, home addresses, ID numbers, email addresses, bank details and location data.
+
+\textbf{Processing} means an activity involving personal data: collecting, storing, using, sharing, changing or deleting it.
+
+\textbf{Example:} keeping a customer delivery address in a database is processing, even before the company uses it.
+
+\hypertarget{special-categories-of-personal-data}{%
+\subsection{Special categories of personal data}\label{special-categories-of-personal-data}}
+
+Some personal data needs additional protection under \textbf{Article 9 GDPR}. Examples include health, genetic data, political opinions, religious beliefs and biometric data used to identify a person uniquely.
+
+\textbf{Important distinctions:}
+
 \begin{itemize}
-    \item Full names
-    \item ID numbers
-    \item Home addresses
-    \item Bank account details
-\end{itemize}
-The Spanish Data Protection Authority (AEPD) investigated the security incident and penalized the company:
-\begin{itemize}
-    \item \textbf{\texteuro 675,000 Fine:} Holaluz was fined 675,000 Euros for violating Article 32 of the GDPR (failure to implement adequate security measures).
-    \item \textbf{Corrective Actions:} The AEPD ordered Holaluz to fix its access rules, stop using shared accounts, and introduce Multi-Factor Authentication (MFA) within three months.
-\end{itemize}
-
-\section{1. The Data Privacy Issue}
-The Spanish professional football league, \textbf{LaLiga}, introduced facial recognition and biometric scanning systems at stadium entry gates to control fan access and improve security.
-\newline
-The Spanish Data Protection Authority (AEPD) analyzed the project and found severe compliance issues under Articles 6 and 9 of the GDPR:
-\begin{itemize}
-    \item Biometric data (facial images) is classified as special category data requiring explicit consent or a strong legal basis.
-    \item LaLiga failed to provide clear information to supporters regarding how their biometric data was processed.
-    \item The risk assessment (DPIA) performed prior to implementing the system was insufficient.
-\end{itemize}
-
-Following the investigation, the AEPD issued a major ruling against the sports organization:
-\begin{itemize}
-    \item \textbf{\texteuro 1,000,000 Fine:} LaLiga was fined 1 million Euros for unlawful processing of biometric data and transparency failures.
-    \item \textbf{System Suspension:} The authority ordered LaLiga to stop using biometric facial recognition at stadium access points until full GDPR compliance is guaranteed.
-\end{itemize}
-
-\chapter{4/11/2026}
-key elements protected by law in a business:
-\begin{itemize}
-    \item new products and services
-    \item incorporation of new technologies(legal process to protect intellectual property)
-    \item key employees and their know-how
-    \item marketing strategies and business plans
-    \item accounting
-    \item websites and social media accounts
-    \item growth strategies and expansion plans
-\end{itemize}
-\section{intellectual property protection}
-Intellectual property (IP) protection is a legal framework that grants creators, inventors, and businesses exclusive rights to their creations, inventions, and innovations. It aims to encourage innovation, creativity, and investment by providing legal safeguards against unauthorized use or reproduction of intellectual property. IP protection covers various forms of intellectual property, including patents, trademarks, copyrights, and trade secrets. By securing these rights, individuals and organizations can benefit from their intellectual efforts, monetize their creations, and maintain a competitive advantage in the marketplace. IP protection also fosters economic growth, promotes technological advancement, and incentivizes the development of new ideas and products. It is essential for businesses to understand and implement effective IP protection strategies to safeguard their intellectual assets and maintain their market position.
-we have 2 types of protection: via registration and via contract. 
-
-The first one is a legal process that grants exclusive rights to the creator or inventor, while the second one involves keeping certain information confidential to maintain a competitive advantage. Both methods are important for protecting intellectual property and ensuring that creators and businesses can benefit from their innovations.
-\begin{itemize}
-    \item patents: legal rights granted to inventors for their inventions, providing exclusive rights to make, use, and sell the invention for a specified period of time.
-    \item industrial designs: legal protection for the visual design of objects, granting exclusive rights to the creator for a certain period.
-    \item trademarks: distinctive signs, symbols, or logos that identify and distinguish products or services
-    \item copyrights: legal rights that protect original works of authorship, such as literary, artistic, musical, and software creations.
-    \item domain names: unique web addresses that serve as online identifiers for businesses or individuals, which can be registered and protected.
-\end{itemize}
-\begin{itemize}
-    \item copyleft is a licensing approach that allows creators to grant permission for others to use, modify, and distribute their work, while ensuring that the same freedoms are preserved in derivative works. It is often associated with open-source software and creative commons licenses. Copyleft encourages collaboration, sharing, and innovation by allowing others to build upon existing works while maintaining the original creator's rights and intentions. It promotes a culture of openness and accessibility, enabling the wider community to benefit from creative contributions while respecting the principles of intellectual property protection.
-    \item open source is a software development model that promotes the free access, use, modification, and distribution of software source code. Open-source software is typically developed collaboratively by a community of developers who contribute to its improvement and maintenance. The open-source model encourages transparency, innovation, and knowledge sharing, allowing users to customize and adapt the software to their specific needs. It also fosters a sense of community and collaboration among developers and users, leading to the rapid evolution of software solutions. Open-source licenses define the terms under which the software can be used, modified, and redistributed, ensuring that the principles of openness and freedom are upheld.
-    \item public domain refers to creative works, inventions, or intellectual property that are not protected by copyright, trademark, or patent laws and are therefore available for public use without restriction. Works in the public domain can be freely accessed, used, modified, and distributed by anyone without seeking permission from the original creator or paying royalties. Public domain status can arise due to the expiration of intellectual property rights, the deliberate dedication of works by their creators, or the absence of legal protection for certain types of works. The public domain plays a crucial role in fostering creativity, innovation, and cultural enrichment by allowing individuals and organizations to build upon existing knowledge and resources.
-
+\tightlist
+\item
+  \textbf{Bank details} are personal data, but are not automatically an Article 9 special category.
+\item
+  A normal photograph is not automatically special-category biometric data. Its technical use for unique identification matters.
+\item
+  Processing special-category data normally requires both an \textbf{Article 6 legal basis} and an \textbf{Article 9 exception}.
 \end{itemize}
 
+\hypertarget{non-personal-anonymous-and-pseudonymous-data}{%
+\subsection{Non-personal, anonymous and pseudonymous data}\label{non-personal-anonymous-and-pseudonymous-data}}
 
-\section{IP RIGHT}
-is a category of proprerty that includes intangible creations of the human intellect, such as inventions, literary and artistic works, symbols, names, images, and designs used in commerce. IP rights are legal protections granted to creators and inventors to control the use of their intellectual property and prevent unauthorized exploitation by others. These rights enable individuals and organizations to benefit from their creative efforts, incentivize innovation, and promote economic growth. IP rights can be enforced through various legal mechanisms, including patents, trademarks, copyrights, and trade secrets, depending on the nature of the intellectual property being protected.
-but not all thet is created by human is protected by intellectual property rights. ..
-\subsection{duration}
-moral rights: all the life of the author
-: all the life of the author plus 70 years after his death
-\subsection{patent}
-is a form of intellectual property that grants inventors exclusive rights to their inventions for a limited period of time, typically 20 years from the filing date of the patent application. Patents provide inventors with the legal authority to prevent others from making, using, selling, or distributing their invention without permission. In exchange for this exclusivity, inventors are required to publicly disclose the details of their invention, allowing others to learn from and build upon their work. Patents are intended to encourage innovation and technological advancement by providing inventors with a temporary monopoly on their creations, incentivizing investment in research and development. To obtain a patent, an invention must meet certain criteria, including novelty, non-obviousness, and utility. The patent application process involves submitting detailed documentation to the relevant patent office, which reviews the application to determine whether the invention qualifies for patent protection. Once granted, patents can be enforced through legal action against infringers, and they can also be licensed or sold to others for commercial purposes. Patents play a crucial role in fostering innovation, promoting economic growth, and advancing scientific and technological knowledge across various industries.
-\\exception:
+\textbf{Non-personal data} does not relate to an identified or identifiable person.
+
 \begin{itemize}
-    \item human body and its parts
-    \item scentific theories and mathematical methods
-    \item ways to presenting information
-    \item computer programs
-    \item aesthetic creations
+\tightlist
+\item
+  \textbf{Anonymous data:} people cannot reasonably be identified from it. The GDPR does not apply to genuinely anonymous data.
+\item
+  \textbf{Pseudonymous data:} names are replaced by codes, but people can still be identified with extra information. It remains personal data.
+\item
+  Removing names or grouping records does \textbf{not automatically} make data anonymous.
 \end{itemize}
-characters:
+
+\textbf{Example:} a customer record labelled ``Customer 481'' is still personal data if the company can connect that code to a person.
+
+\hypertarget{gdpr-and-spanish-data-protection-law}{%
+\section{GDPR and Spanish Data Protection Law}\label{gdpr-and-spanish-data-protection-law}}
+
+\hypertarget{gdpr}{%
+\subsection{GDPR}\label{gdpr}}
+
+The \textbf{General Data Protection Regulation (GDPR)} is \textbf{Regulation (EU) 2016/679}.
+
+Its main aims are to protect people's personal data, strengthen their rights and create common data protection rules.
+
+It applies in the \textbf{EU and European Economic Area (EEA)}. In certain cases, it also applies to organisations outside the EEA that offer goods or services to people there or monitor their behaviour.
+
+Transfers outside the EEA must meet the relevant GDPR transfer rules. They are not automatically prohibited.
+
+\hypertarget{lopdgdd}{%
+\subsection{LOPDGDD}\label{lopdgdd}}
+
+\textbf{LOPDGDD} means \textbf{Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales}: Spanish Organic Law \textbf{3/2018}.
+
+It \textbf{complements the GDPR in Spain} and also protects certain digital rights.
+
+the LOPDGDD is a Spanish law, not an EU regulation about telecommunications. Rules on cookies and electronic communications also involve other legislation, including Spain's \textbf{LSSI, Law 34/2002}, and the EU ePrivacy framework.
+
+\hypertarget{gdpr-principles-and-legal-bases}{%
+\section{GDPR Principles and Legal Bases}\label{gdpr-principles-and-legal-bases}}
+
+\hypertarget{seven-principles-to-remember}{%
+\subsection{Seven principles to remember}\label{seven-principles-to-remember}}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.5000}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.5000}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+Principle
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Simple meaning
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+\textbf{Lawfulness, fairness and transparency} & Use data legally and fairly, and explain its use clearly. \\
+\textbf{Purpose limitation} & Collect data for specific purposes; do not use it for incompatible purposes. \\
+\textbf{Data minimisation} & Collect only what is necessary. \\
+\textbf{Accuracy} & Keep data correct and up to date. \\
+\textbf{Storage limitation} & Keep identifiable data only as long as necessary. \\
+\textbf{Integrity and confidentiality} & Protect data against unauthorised use, loss and damage. \\
+\textbf{Accountability} & Be able to show that the organisation follows the rules. \\
+\end{longtable}
+
+\textbf{Example:} a shop needs a delivery address to send an order. Asking for the customer's religion would normally be unnecessary.
+
+\hypertarget{legal-bases-for-processing}{%
+\subsection{Legal bases for processing}\label{legal-bases-for-processing}}
+
+A business must identify an appropriate \textbf{legal basis} before processing personal data. The six bases under Article 6 are:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \textbf{Consent:} the person agrees to a specific use.
+\item
+  \textbf{Contract:} processing is necessary to perform a contract or requested pre-contract steps.
+\item
+  \textbf{Legal obligation:} a law requires the processing.
+\item
+  \textbf{Vital interests:} processing is necessary to protect someone's life or another vital interest.
+\item
+  \textbf{Public interest or official authority:} processing is necessary for a legally supported public task.
+\item
+  \textbf{Legitimate interests:} a necessary, lawful interest, balanced against people's rights.
+\end{enumerate}
+
+\textbf{Consent is not always required.} For example, using an address to deliver an order can be necessary to perform a contract.
+
+\hypertarget{valid-consent}{%
+\subsection{Valid consent}\label{valid-consent}}
+
+Consent must be \textbf{freely given, specific, informed and unambiguous}. It requires a clear positive action; silence or a pre-ticked box is not enough.
+
+People must be able to \textbf{withdraw consent easily}. Withdrawal does not make earlier lawful processing illegal.
+
+use \textbf{unambiguous consent}, not ``equivocal consent''.
+
+\hypertarget{rights-of-individuals}{%
+\section{Rights of Individuals}\label{rights-of-individuals}}
+
+A \textbf{data subject} is the person whose personal data is processed.
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.5000}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.5000}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+Right
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Meaning and example
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+\textbf{Information} & Know who uses the data, why and under what conditions. \\
+\textbf{Access} & Ask whether data is processed and receive access to it. \\
+\textbf{Rectification} & Correct inaccurate data or complete missing information, such as an incorrect address. \\
+\textbf{Erasure / right to be forgotten} & Ask for deletion when the legal conditions apply. \\
+\textbf{Restriction of processing} & Limit use while the organisation may still store the data. \\
+\textbf{Data portability} & Under certain conditions, receive provided data in a reusable digital format or transfer it to another controller. \\
+\textbf{Objection} & Oppose certain processing, including processing for direct marketing. \\
+\textbf{Protection from certain automated decisions} & Safeguards against decisions based only on automated processing that have legal or similarly significant effects. \\
+\end{longtable}
+
+People can also \textbf{withdraw consent} where it is the legal basis and \textbf{complain to a supervisory authority}.
+
+These rights have conditions and exceptions. Organisations normally respond to rights requests within \textbf{one month}, with limited extensions where allowed.
+
+\hypertarget{three-rights-that-are-easy-to-confuse}{%
+\subsection{Three rights that are easy to confuse}\label{three-rights-that-are-easy-to-confuse}}
+
 \begin{itemize}
-    \item contractual license: a legal agreement between the patent holder and another party that grants permission to use, manufacture, or sell the patented invention under specified terms and conditions. Contractual licenses can be exclusive (granting rights to only one licensee) or non-exclusive (allowing multiple licensees). These agreements often include provisions related to royalties, duration, territorial scope, and any limitations on the use of the patented technology.
-    \item mandatory license: a legal mechanism that allows a government or regulatory authority to grant permission to a third party to use a patented invention without the consent of the patent holder. Mandatory licenses are typically issued in specific circumstances, such as public health emergencies, anti-competitive practices, or when the patent holder is not adequately exploiting the invention. The terms and conditions of mandatory licenses are usually determined by the relevant authorities and may include provisions for compensation to the patent holder.
-    \item duration: the length of time for which a patent is valid, typically 20 years from the filing date of the patent application. During this period, the patent holder has exclusive rights to make, use, sell, and license the invention. After the expiration of the patent term, the invention enters the public domain, allowing others to freely use and build upon it without seeking permission from the original patent holder.
+\tightlist
+\item
+  \textbf{Rectification = correct the data.} Example: change an incorrect birth date.
+\item
+  \textbf{Erasure = delete the data}, when legally required. A company may still need to keep invoices for tax purposes.
+\item
+  \textbf{Restriction = limit its use.} Example: pause normal use while checking disputed information.
 \end{itemize}
-\section{utility model}
-is a form of intellectual property protection that grants inventors exclusive rights to their technical innovations for a
-\section{industrial design}: a form of intellectual property protection that grants creators exclusive rights to the visual and aesthetic aspects of a product's design. Industrial designs encompass the shape, configuration, pattern, or ornamentation applied to a product, which gives it a unique appearance and distinguishes it from other products in the market. The protection of industrial designs encourages innovation and creativity in product development by allowing designers to benefit from their original creations.
-\section{brands or trademarks}
-is a distinctive sign, symbol, logo, or name that identifies and distinguishes products or services of a particular company from those of others in the marketplace. Trademarks serve as a source identifier, allowing consumers to recognize and associate specific qualities, reputation, and origin with the goods or services offered under that mark. Trademark protection is granted through registration with the relevant intellectual property office, providing the owner with exclusive rights to use the mark in connection with the specified goods or services. Trademarks can be renewed indefinitely as long as they are actively used in commerce and maintained according to legal requirements. They play a crucial role in brand recognition, consumer trust, and market differentiation, helping businesses establish a unique identity and protect their brand equity from infringement or unauthorized use by competitors.
-\section{running shoes}
-if I'm a company that produces running shoes, I can protect my intellectual property in several ways:
+
+Restriction may apply when accuracy is disputed, processing is unlawful but the person prefers restriction to deletion, data is needed for legal claims, or an objection is being checked. Some limited processing remains possible under legal exceptions.
+
+\hypertarget{company-responsibilities}{%
+\section{Company Responsibilities}\label{company-responsibilities}}
+
+\hypertarget{controller-and-processor}{%
+\subsection{Controller and processor}\label{controller-and-processor}}
+
 \begin{itemize}
-    \item patent: If I have developed a new and innovative \textbf{technology for running shoes}, such as a unique cushioning system or a novel material that enhances performance, I can apply for a patent to protect that invention. 
-    \item utility model: If I have created a new and \textbf{useful feature for my running shoes}, such as a specific lacing system or a unique sole design that improves comfort or stability, I can apply for a utility model to protect that innovation. This would give me exclusive rights to use and commercialize that feature for a certain period of time.
-    \item industrial design: If I have created a distinctive and visually appealing design for my running shoes, I can register the design to protect its aesthetic aspects. This would prevent others from copying or imitating the visual appearance of my shoes, helping to maintain my brand identity and market differentiation.
-    \item trademark: I can register a trademark for my running shoe brand name, logo, or slogan. A strong trademark helps build brand recognition and loyalty among customers.
+\tightlist
+\item
+  \textbf{Data controller:} decides why and how personal data is processed.
+\item
+  \textbf{Data processor:} processes personal data on the controller's behalf and instructions.
 \end{itemize}
+
+\textbf{Example:} a retailer decides how to use its customer database. An external hosting provider may act as its processor.
+
+\textbf{Outsourcing does not remove the controller's responsibilities.}
+
+\hypertarget{main-obligations}{%
+\subsection{Main obligations}\label{main-obligations}}
+
+Companies must:
+
+\begin{itemize}
+\tightlist
+\item
+  Explain processing clearly: purposes, legal basis, recipients, retention periods, international transfers and rights.
+\item
+  Respect \textbf{confidentiality}, including after an employment or service relationship ends where the duty continues.
+\item
+  Apply suitable \textbf{technical and organisational security measures}.
+\item
+  Assess risks and review controls when activities or threats change.
+\item
+  Train employees and prepare incident response procedures.
+\item
+  Help people exercise their rights.
+\item
+  Use compliant \textbf{processor contracts} and monitor suppliers appropriately.
+\item
+  Apply appropriate safeguards for international transfers.
+\end{itemize}
+
+A processor contract should cover instructions, confidentiality, security, assistance with rights and breaches, other processors, and return or deletion of data.
+
+\hypertarget{risk-analysis-and-dpia}{%
+\subsection{Risk analysis and DPIA}\label{risk-analysis-and-dpia}}
+
+\textbf{Risk analysis} identifies possible threats, their likelihood and their impact. It helps the company choose suitable controls.
+
+A \textbf{Data Protection Impact Assessment (DPIA)} is a structured assessment required \textbf{before processing likely to create a high risk to people's rights and freedoms}.
+
+A DPIA examines the planned processing, its necessity, its effects on people and measures to reduce the risks.
+
+\textbf{Link:} all processing needs suitable risk management; only certain high-risk activities require a DPIA.
+
+\hypertarget{data-protection-officer}{%
+\subsection{Data Protection Officer}\label{data-protection-officer}}
+
+A \textbf{Data Protection Officer (DPO)} advises on data protection, monitors compliance and acts as a contact for individuals and authorities.
+
+A DPO is required in specified situations, including:
+
+\begin{itemize}
+\tightlist
+\item
+  Public authorities and bodies, with an exception for courts acting in their judicial role.
+\item
+  Core activities involving \textbf{large-scale, regular and systematic monitoring}.
+\item
+  Core activities involving large-scale processing of \textbf{special-category data or criminal conviction and offence data}.
+\end{itemize}
+
+Spanish law adds requirements for certain organisations. \textbf{Not every company needs a DPO}, and appointing one does not transfer management's responsibility to that person.
+
+\hypertarget{personal-data-breaches}{%
+\subsection{Personal data breaches}\label{personal-data-breaches}}
+
+A \textbf{personal data breach} is a security incident causing accidental or unlawful loss, destruction, alteration, disclosure of, or access to personal data.
+
+The controller must:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \textbf{Document the breach} and its effects.
+\item
+  Notify the authority \textbf{without undue delay and, where feasible, within 72 hours of becoming aware}, unless it is unlikely to create a risk to people.
+\item
+  Inform affected individuals without undue delay where there is a \textbf{high risk}, unless a legal exception applies.
+\end{enumerate}
+
+A processor must inform the controller \textbf{without undue delay}. The 72-hour rule is not a rule requiring notification to every customer after every security incident.
+
+\hypertarget{enforcement-and-penalties}{%
+\subsection{Enforcement and penalties}\label{enforcement-and-penalties}}
+
+In Spain, the \textbf{AEPD --- Agencia Española de Protección de Datos} --- is the national data protection authority. Other authorities also have specific legal responsibilities.
+
+Authorities can issue warnings, reprimands, corrective orders, restrictions or bans on processing, and fines.
+
+The GDPR has different fine levels. Depending on the infringement, the maximum can be \textbf{€10 million or 2\%}, or \textbf{€20 million or 4\%}, of the previous financial year's worldwide annual turnover, \textbf{whichever is higher}. These are maximum limits, not automatic fines.
+
+\hypertarget{business-cases}{%
+\section{Business Cases}\label{business-cases}}
+
+\hypertarget{holaluz-supplier-access-and-security}{%
+\subsection{Holaluz: Supplier Access and Security}\label{holaluz-supplier-access-and-security}}
+
+\textbf{Case discussed in class:} attackers used an external sales provider's credentials to access Holaluz customer data in \textbf{October 2022}. A shared account used by around \textbf{120 people} and excessive permissions were central security weaknesses.
+
+The class case describes exposure of names, ID numbers, addresses and bank account details, affecting \textbf{more than 31,000 customers}. It reports a \textbf{€675,000 fine} and a \textbf{three-month deadline} for security improvements, including ending shared access and introducing MFA.
+
+The reported total fine concerned \textbf{Articles 5(1)(f) and 32 GDPR}, covering confidentiality and appropriate security measures. \textbf{Study note:} the exact customer count and specific wording of the MFA order in this class case still need confirmation.
+
+\textbf{Management lessons:}
+
+\begin{itemize}
+\tightlist
+\item
+  Give each user an individual account.
+\item
+  Apply \textbf{least privilege}: access only to what the job requires.
+\item
+  Use \textbf{multi-factor authentication (MFA)} and monitor access.
+\item
+  Check supplier security in practice, rather than relying only on contracts.
+\end{itemize}
+
+\hypertarget{laliga-biometric-access-and-the-dpia}{%
+\subsection{LaLiga: Biometric Access and the DPIA}\label{laliga-biometric-access-and-the-dpia}}
+
+LaLiga promoted biometric identification for access to \textbf{supporters' sections} in football stadiums.
+
+In procedure \textbf{PS/00484/2023}, the AEPD imposed a \textbf{€1 million fine for infringement of Article 35 GDPR}, concerning the required DPIA. It also ordered suspension of the relevant biometric processing until a valid DPIA had been completed successfully.
+
+The specific €1 million sanction concerned \textbf{Article 35}, rather than Articles 6 and 9 or transparency failures. Lawfulness and special-category conditions remain important when analysing biometric processing.
+
+\textbf{Management lesson:} a security objective does not remove data protection duties. Check necessity, less intrusive alternatives, the legal basis and high-risk assessment \textbf{before implementation}.
+
+\hypertarget{november-2026-intellectual-property-and-cybersecurity}{%
+\chapter{ Intellectual Property and Cybersecurity}\label{november-2026-intellectual-property-and-cybersecurity}}
+
+\hypertarget{protecting-business-assets}{%
+\section{Protecting Business Assets}\label{protecting-business-assets}}
+
+Businesses should identify and protect:
+
+\begin{itemize}
+\tightlist
+\item
+  New products, services and technologies.
+\item
+  Confidential know-how held by key employees.
+\item
+  Marketing strategies and business plans.
+\item
+  Accounting records and financial information.
+\item
+  Websites, domain names and social media accounts.
+\item
+  Growth and expansion plans.
+\end{itemize}
+
+These assets need different tools: \textbf{IP rights, contracts, confidentiality rules, access controls and cybersecurity}. Not all business information qualifies for an IP right.
+
+\textbf{Know-how} means practical knowledge and skills. A business can protect confidential information, but it does not own employees or all their general experience.
+
+\hypertarget{intellectual-property-and-protection-methods}{%
+\section{Intellectual Property and Protection Methods}\label{intellectual-property-and-protection-methods}}
+
+\hypertarget{definition-and-business-purpose}{%
+\subsection{Definition and business purpose}\label{definition-and-business-purpose}}
+
+\textbf{Intellectual property (IP)} concerns creations such as inventions, original works, designs and distinctive business signs.
+
+\textbf{IP rights} protect qualifying creations and allow owners to control certain uses, earn income and defend a competitive advantage.
+
+Protection can support innovation, investment, licensing and market differentiation. However, \textbf{not every idea or creation is automatically protected}: each right has its own requirements.
+
+\hypertarget{registration-automatic-protection-and-contracts}{%
+\subsection{Registration, automatic protection and contracts}\label{registration-automatic-protection-and-contracts}}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+Method
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+What it does
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Examples
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+\textbf{Registration or formal grant} & Creates a specific right after the required procedure. & Patents, utility models, registered designs and registered trademarks. \\
+\textbf{Automatic protection} & Protection arises when legal conditions are met. & Copyright in an original work; some unregistered design protection. \\
+\textbf{Contracts and confidentiality} & Set duties between parties and help protect confidential information. & NDAs, licences and IP ownership clauses. \\
+\end{longtable}
+
+``registration or contract'' is a useful starting point, but it is incomplete. \textbf{Copyright normally arises automatically}, and trade secret protection also requires practical secrecy measures.
+
+\hypertarget{trade-secrets}{%
+\subsection{Trade secrets}\label{trade-secrets}}
+
+A \textbf{trade secret} is information that:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Is \textbf{secret}, rather than generally known or easily available.
+\item
+  Has \textbf{commercial value because it is secret}.
+\item
+  Is protected through \textbf{reasonable steps to keep it secret}.
+\end{enumerate}
+
+Examples include a confidential production method, supplier list or launch strategy.
+
+An \textbf{NDA --- non-disclosure agreement} --- requires the receiving party to keep defined information confidential. Restricted access and employee training also help protect secrets.
+
+\textbf{Link:} patents protect disclosed inventions for a limited period; trade secrets depend on continued secrecy.
+
+\hypertarget{main-intellectual-property-rights}{%
+\section{Main Intellectual Property Rights}\label{main-intellectual-property-rights}}
+
+\hypertarget{patents}{%
+\subsection{Patents}\label{patents}}
+
+A \textbf{patent} gives its owner the right to prevent specified unauthorised uses of a protected invention in the territory covered.
+
+The invention must meet three central requirements:
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Novelty:} it is new compared with information already publicly available.
+\item
+  \textbf{Inventive step:} it is not obvious to a person with relevant technical knowledge.
+\item
+  \textbf{Industrial applicability:} it can be made or used in an industry.
+\end{itemize}
+
+It must also be a qualifying technical invention. A patent application must explain the invention sufficiently.
+
+\textbf{Duration:} generally \textbf{20 years from filing}, subject to required fees and legal conditions. A patent can be sold or licensed. It does not automatically give its owner permission to use the invention if other rights or laws prevent this.
+
+\hypertarget{patent-exclusions-and-limits}{%
+\subsection{Patent exclusions and limits}\label{patent-exclusions-and-limits}}
+
+Under the European patent framework, exclusions include scientific theories, mathematical methods, aesthetic creations, presentations of information and computer programs \textbf{as such}.
+
+\begin{itemize}
+\tightlist
+\item
+  A \textbf{software-based technical invention} may be patentable if it meets the relevant conditions; not all software is excluded.
+\item
+  The human body and the simple discovery of its elements are not patentable. Certain isolated elements obtained through a technical process may qualify under specific conditions.
+\item
+  An aesthetic feature may receive \textbf{design protection}, even when it is not a patentable invention.
+\end{itemize}
+
+\hypertarget{patent-licences}{%
+\subsection{Patent licences}\label{patent-licences}}
+
+A \textbf{licence} allows another party to use an IP right under agreed or legally established conditions.
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Voluntary or contractual licence:} the owner agrees to permit use. Terms can cover payment, duration, territory and scope. It may be exclusive or non-exclusive.
+\item
+  \textbf{Compulsory licence:} a competent authority permits certain uses without the owner's consent in legally defined circumstances. Conditions and remuneration depend on the applicable rules.
+\end{itemize}
+
+``compulsory licence'' is the usual term, rather than ``mandatory licence''. It is an exceptional legal mechanism, not automatic permission to copy a patent.
+
+\hypertarget{utility-models}{%
+\subsection{Utility models}\label{utility-models}}
+
+A \textbf{utility model} protects qualifying technical inventions, often practical improvements to products or devices. Its requirements and availability depend on the country.
+
+In Spain, protection normally lasts \textbf{10 years from filing}. The inventive-step standard is lower than for patents, but the innovation must still meet legal requirements.
+
+\textbf{Example:} an improved shoe fastening mechanism may qualify; a purely decorative change does not become a technical invention just because it is useful commercially.
+
+\hypertarget{industrial-designs}{%
+\subsection{Industrial designs}\label{industrial-designs}}
+
+An \textbf{industrial design} protects a product's \textbf{appearance}, such as shape, lines, colours, patterns or decoration. It does not protect a technical function as such.
+
+For a registered design, \textbf{novelty and individual character} are central requirements. Registered protection in Spain and the EU generally starts with \textbf{5 years}, renewable up to \textbf{25 years}.
+
+\textbf{Example:} a distinctive bottle shape or the visible pattern of a running shoe.
+
+\hypertarget{trademarks-brands-and-domain-names}{%
+\subsection{Trademarks, brands and domain names}\label{trademarks-brands-and-domain-names}}
+
+A \textbf{trademark} is a distinctive sign that identifies the commercial origin of goods or services. It may be a name, logo or another qualifying sign.
+
+\begin{itemize}
+\tightlist
+\item
+  It helps customers recognise a business and protects brand identity.
+\item
+  Registration concerns specified goods or services and a defined territory.
+\item
+  In Spain and the EU, registration generally lasts \textbf{10 years} and can be renewed repeatedly, subject to requirements including genuine use.
+\end{itemize}
+
+A \textbf{brand} is broader: it includes reputation, values and customer perceptions. A trademark legally protects qualifying signs used within that brand.
+
+A \textbf{domain name} is a registered internet address. Registering one does \textbf{not automatically create a trademark right} or allow infringement of another company's trademark.
+
+\hypertarget{copyright-economic-and-moral-rights}{%
+\subsection{Copyright: Economic and Moral Rights}\label{copyright-economic-and-moral-rights}}
+
+\textbf{Copyright} protects original expression, including books, photographs, music, films and software code. It does not protect an idea simply because someone thought of it.
+
+\textbf{Economic rights} control commercial uses such as copying, distribution and adaptation. They may be licensed or transferred under applicable rules.
+
+\textbf{Moral rights} protect the author's personal connection with the work, including recognition of authorship and the work's integrity.
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Economic rights:} the general Spanish rule is the author's life plus \textbf{70 years after death}, with exceptions and transitional rules.
+\item
+  \textbf{Moral rights:} In Spain, authorship and integrity rights can be exercised after death \textbf{without a time limit} by the persons authorised under the law.
+\item
+  Original works normally receive copyright \textbf{without registration}.
+\end{itemize}
+
+\hypertarget{open-source-copyleft-and-public-domain}{%
+\section{Open Source, Copyleft and Public Domain}\label{open-source-copyleft-and-public-domain}}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+Concept
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Meaning
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Main point
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+\textbf{Open source} & Software distributed under a licence allowing use, study, modification and redistribution, with source code available under its terms. & It remains subject to licence conditions. \\
+\textbf{Copyleft} & A licensing approach requiring covered adaptations to preserve specified freedoms, commonly when distributed. & Not every open-source licence is copyleft. \\
+\textbf{Public domain} & A work or invention is outside the relevant exclusive protection, for example after expiry. & Check other applicable rights and legal limits. \\
+\end{longtable}
+
+Open-source software can be used \textbf{commercially} and may be sold. ``Open source'' does not mean ``no copyright''. A copyleft licence uses copyright to require continued sharing under its conditions.
+
+\textbf{Examples:} the \textbf{MIT licence} is a permissive open-source licence; the \textbf{GNU GPL} is a copyleft licence. Creative Commons has different licences, and not all have a ShareAlike condition.
+
+Public-domain status for copyright does not remove every possible restriction: moral rights, trademarks, privacy or other rules may still matter.
+
+\hypertarget{integrated-example-a-running-shoe-company}{%
+\section{Integrated Example: A Running Shoe Company}\label{integrated-example-a-running-shoe-company}}
+
+One product can involve several forms of protection.
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.5000}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.5000}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+Business asset
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Possible protection
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+New technical cushioning system & \textbf{Patent}, if it meets patentability requirements. \\
+Qualifying practical improvement to a fastening mechanism & \textbf{Utility model}, where available and legally suitable. \\
+Distinctive visual shape, colour arrangement or pattern & \textbf{Industrial design}. \\
+Shoe brand name and logo & \textbf{Trademark}. \\
+Original campaign photographs and website code & \textbf{Copyright}. \\
+Secret production method and confidential launch plan & \textbf{Trade secrets}, supported by NDAs and access controls. \\
+Website address & \textbf{Domain-name registration}, with trademark checks. \\
+Customer names, addresses and payment information & \textbf{GDPR compliance and cybersecurity}, rather than an IP right over customers. \\
+\end{longtable}
+
+\textbf{Memory link:} technical solution = patent; appearance = design; commercial sign = trademark; original expression = copyright; confidential valuable information = trade secret.
+
+\hypertarget{cybersecurity-and-its-link-to-data-protection}{%
+\section{Cybersecurity and Its Link to Data Protection}\label{cybersecurity-and-its-link-to-data-protection}}
+
+\textbf{Cybersecurity} protects networks, systems and data against threats such as unauthorised access, malware, theft and disruption.
+
+Three main objectives are:
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Confidentiality:} only authorised people can access information.
+\item
+  \textbf{Integrity:} information remains correct and is not changed without permission.
+\item
+  \textbf{Availability:} authorised users can access systems and data when needed.
+\end{itemize}
+
+These are known as the \textbf{CIA triad}.
+
+Practical measures include individual accounts, least privilege, MFA, encryption, updates, backups, access logs, training, regular checks and incident response plans.
+
+\textbf{Data protection} asks whether personal data is used lawfully and fairly. \textbf{Cybersecurity} asks how systems and information are protected. They overlap, but cybersecurity also protects non-personal information and business operations.
 
 
 
