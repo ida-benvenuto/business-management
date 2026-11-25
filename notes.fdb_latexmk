@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1794163667.35361 "/Users/idabenvenuto/Desktop/spagna/business management/notes.tex" "notes.pdf" "notes" 1794163668.52279 0
-  "/Users/idabenvenuto/Desktop/spagna/business management/notes.tex" 1794163665.76744 121141 ed65ae5fcd6612772ad7f464a1202e60 ""
+["pdflatex"] 1795602605.89832 "/Users/idabenvenuto/Desktop/spagna/business management/notes.tex" "notes.pdf" "notes" 1795602607.2801 0
+  "/Users/idabenvenuto/Desktop/spagna/business management/notes.tex" 1795602605.71111 129409 d3157fcadff546449cdf43fd147862f4 ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/tfm/jknappen/ec/ecbx1200.tfm" 1136768653 3584 402da0b29eafbad07963b1224b222f18 ""
@@ -195,10 +195,11 @@
   "imm/Screenshot 2026-09-30 alle 13.34.26.png" 1790768068.69597 377960 71dc32e3d037e48d49c86495d2c812cc ""
   "imm/Screenshot 2026-10-14 alle 11.29.03.png" 1791970145.97879 267102 0fe76df9f1f1a75ec1a0aa8e59f971b9 ""
   "imm/Screenshot 2026-10-14 alle 11.58.30.png" 1791971912.6528 245080 9e069792293823ed0d5cfc1a981d62ea ""
-  "notes.aux" 1794163668.4253 25380 19c7d3f1030e639bdaf95b626fb4df9a "pdflatex"
-  "notes.out" 1794163668.4273 23884 780fe1ec0d711e56cc56a0a3cf1b693e "pdflatex"
-  "notes.tex" 1794163665.76744 121141 ed65ae5fcd6612772ad7f464a1202e60 ""
-  "notes.toc" 1794163668.42754 12291 07037d4a7da7e198c5948c0290a3d141 "pdflatex"
+  "imm/Screenshot 2026-11-11 alle 12.14.21.png" 1794395667.05626 553392 ba0a0a787cfaa61e75d8a226f7867372 ""
+  "notes.aux" 1795602607.16898 26291 5e5fb4f3ea7ae9aa5991ef612fc0dd3a "pdflatex"
+  "notes.out" 1795602607.17123 24911 fc7ed7705f70bb7dc71c46436b2774b5 "pdflatex"
+  "notes.tex" 1795602605.71111 129409 d3157fcadff546449cdf43fd147862f4 ""
+  "notes.toc" 1795602607.17156 12804 49750226f0ff2010f1b8afa50c401f11 "pdflatex"
   (generated)
   "notes.aux"
   "notes.log"

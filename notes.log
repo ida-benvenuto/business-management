@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.11.15)  8 NOV 2026 19:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.11.15)  25 NOV 2026 11:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -742,7 +742,7 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 [9
 
 ]
-<imm/Screenshot 2026-09-10 alle 18.50.03.png, id=737, 734.745pt x 452.69125pt>
+<imm/Screenshot 2026-09-10 alle 18.50.03.png, id=767, 734.745pt x 452.69125pt>
 File: imm/Screenshot 2026-09-10 alle 18.50.03.png Graphic file (type png)
 <use imm/Screenshot 2026-09-10 alle 18.50.03.png>
 Package pdftex.def Info: imm/Screenshot 2026-09-10 alle 18.50.03.png  used on input line 220.
@@ -765,7 +765,7 @@ l.234 A
 [14]
 
 [15]
-<imm/Google-Business-Model-Canvas.jpeg, id=770, 1927.2pt x 1084.05pt>
+<imm/Google-Business-Model-Canvas.jpeg, id=801, 1927.2pt x 1084.05pt>
 File: imm/Google-Business-Model-Canvas.jpeg Graphic file (type jpg)
 <use imm/Google-Business-Model-Canvas.jpeg>
 Package pdftex.def Info: imm/Google-Business-Model-Canvas.jpeg  used on input line 496.
@@ -838,7 +838,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 563--570
 
  []
 
-<imm/Screenshot 2026-09-14 alle 10.56.31.png, id=782, 489.83pt x 337.26pt>
+<imm/Screenshot 2026-09-14 alle 10.56.31.png, id=813, 489.83pt x 337.26pt>
 File: imm/Screenshot 2026-09-14 alle 10.56.31.png Graphic file (type png)
 <use imm/Screenshot 2026-09-14 alle 10.56.31.png>
 Package pdftex.def Info: imm/Screenshot 2026-09-14 alle 10.56.31.png  used on input line 577.
@@ -1016,7 +1016,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 702--710
 
 
 [21]
-<imm/STATO-PATRIMONIALE-1-1.jpg, id=808, 1014.79124pt x 745.78625pt>
+<imm/STATO-PATRIMONIALE-1-1.jpg, id=838, 1014.79124pt x 745.78625pt>
 File: imm/STATO-PATRIMONIALE-1-1.jpg Graphic file (type jpg)
 <use imm/STATO-PATRIMONIALE-1-1.jpg>
 Package pdftex.def Info: imm/STATO-PATRIMONIALE-1-1.jpg  used on input line 742.
@@ -1049,7 +1049,7 @@ Chapter 7.
 ]
 
 [28]
-<imm/Screenshot 2026-09-30 alle 13.29.41.png, id=839, 701.62125pt x 529.98pt>
+<imm/Screenshot 2026-09-30 alle 13.29.41.png, id=869, 701.62125pt x 529.98pt>
 File: imm/Screenshot 2026-09-30 alle 13.29.41.png Graphic file (type png)
 <use imm/Screenshot 2026-09-30 alle 13.29.41.png>
 Package pdftex.def Info: imm/Screenshot 2026-09-30 alle 13.29.41.png  used on input line 886.
@@ -1057,7 +1057,7 @@ Package pdftex.def Info: imm/Screenshot 2026-09-30 alle 13.29.41.png  used on in
 
 
 [29 <./imm/Screenshot 2026-09-30 alle 13.29.41.png>]
-<imm/Screenshot 2026-09-30 alle 13.34.26.png, id=845, 508.90125pt x 459.7175pt>
+<imm/Screenshot 2026-09-30 alle 13.34.26.png, id=875, 508.90125pt x 459.7175pt>
 File: imm/Screenshot 2026-09-30 alle 13.34.26.png Graphic file (type png)
 <use imm/Screenshot 2026-09-30 alle 13.34.26.png>
 Package pdftex.def Info: imm/Screenshot 2026-09-30 alle 13.34.26.png  used on input line 893.
@@ -1081,7 +1081,7 @@ Overfull \hbox (5.76549pt too wide) in paragraph at lines 936--937
 
 [33]
 Chapter 9.
-<imm/Screenshot 2026-10-14 alle 11.29.03.png, id=868, 680.5425pt x 424.58624pt>
+<imm/Screenshot 2026-10-14 alle 11.29.03.png, id=899, 680.5425pt x 424.58624pt>
 File: imm/Screenshot 2026-10-14 alle 11.29.03.png Graphic file (type png)
 <use imm/Screenshot 2026-10-14 alle 11.29.03.png>
 Package pdftex.def Info: imm/Screenshot 2026-10-14 alle 11.29.03.png  used on input line 982.
@@ -1091,7 +1091,7 @@ Package pdftex.def Info: imm/Screenshot 2026-10-14 alle 11.29.03.png  used on in
 [34
 
  <./imm/Screenshot 2026-10-14 alle 11.29.03.png>]
-<imm/Screenshot 2026-10-14 alle 11.58.30.png, id=874, 448.67625pt x 306.14375pt>
+<imm/Screenshot 2026-10-14 alle 11.58.30.png, id=905, 448.67625pt x 306.14375pt>
 File: imm/Screenshot 2026-10-14 alle 11.58.30.png Graphic file (type png)
 <use imm/Screenshot 2026-10-14 alle 11.58.30.png>
 Package pdftex.def Info: imm/Screenshot 2026-10-14 alle 11.58.30.png  used on input line 990.
@@ -1183,27 +1183,55 @@ Chapter 13.
 
 [58]
 
-[59] (./notes.aux)
+[59]
+Chapter 14.
+
+
+[60
+
+]
+<imm/Screenshot 2026-11-11 alle 12.14.21.png, id=1083, 526.96875pt x 474.77374pt>
+File: imm/Screenshot 2026-11-11 alle 12.14.21.png Graphic file (type png)
+<use imm/Screenshot 2026-11-11 alle 12.14.21.png>
+Package pdftex.def Info: imm/Screenshot 2026-11-11 alle 12.14.21.png  used on input line 1959.
+(pdftex.def)             Requested size: 364.19667pt x 328.13757pt.
+
+
+[61]
+
+[62 <./imm/Screenshot 2026-11-11 alle 12.14.21.png>]
+
+[63]
+Chapter 15.
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 2008.
+
+
+
+[64
+
+] (./notes.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `notes.out' has not changed.
-(rerunfilecheck)             Checksum: 780FE1EC0D711E56CC56A0A3CF1B693E;23884.
+(rerunfilecheck)             Checksum: FC7ED7705F70BB7DC71C46436B2774B5;24911.
  ) 
 Here is how much of TeX's memory you used:
- 24818 strings out of 474662
- 472092 string characters out of 5751108
- 845347 words of memory out of 5000000
- 47186 multiletter control sequences out of 15000+600000
+ 24843 strings out of 474662
+ 472690 string characters out of 5751108
+ 845358 words of memory out of 5000000
+ 47200 multiletter control sequences out of 15000+600000
  578105 words of font info for 84 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  98i,11n,101p,834b,635s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on notes.pdf (60 pages, 3100814 bytes).
+Output written on notes.pdf (65 pages, 3561571 bytes).
 PDF statistics:
- 1168 PDF objects out of 1200 (max. 8388607)
- 1055 compressed objects within 11 object streams
- 275 named destinations out of 1000 (max. 500000)
- 1133 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1224 PDF objects out of 1440 (max. 8388607)
+ 1103 compressed objects within 12 object streams
+ 286 named destinations out of 1000 (max. 500000)
+ 1186 words of extra memory for PDF output out of 10000 (max. 10000000)
 
